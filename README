@@ -22,6 +22,20 @@ This is an iEEG-BIDS representation of the ECoG released by the authors in NWB o
 Please cite both. The 30 Hz pose trajectories (9 keypoints, image pixels) are not converted; they
 remain, unchanged, in the original NWB files under sourcedata/dandi-000055/ and on DANDI.
 
+Cohort and acquisition
+----------------------
+From Peterson et al. (2022), Methods ("Participants", "Data collection"):
+- 12 participants (8 male, 4 female; age 29.4 +/- 7.6 years, mean +/- SD) recorded during clinical
+  epilepsy monitoring at Harborview Medical Center, Seattle, USA. ECoG electrodes were placed based on
+  clinical need; participants were selected because they were generally active during monitoring and
+  had ECoG electrodes near motor cortex.
+- Semi-continuous ECoG and video were recorded passively during 24-hour clinical monitoring; monitoring
+  lasted 7.4 +/- 2.2 days per participant, with 8.3 +/- 2.2 breaks per participant of 1.9 +/- 2.4 h.
+  Only days 3-7 after implantation were included; days with corrupted or missing files were excluded.
+- Acquisition rates: ECoG 1 kHz (released at 500 Hz after the authors' processing, see Signal), video 30
+  frames per second. The paper does not name the amplifier, electrode manufacturer or acquisition
+  reference; these fields are left unset.
+
 Ethics
 ------
 Peterson et al. (2022): all participants provided written informed consent; the protocol was
@@ -36,6 +50,8 @@ Contents
 later in the day (sub-01 ses-7, sub-04 ses-3, sub-06 ses-3) and, like all others, end at midnight.
 Events: 8088 wrist-movement events (ReachEvents, left or right wrist as stated per file) and 74339
 coarse behaviour-label intervals.
+(The data descriptor text reports 6931 visually validated wrist movement events; the ReachEvents
+tables of the released NWB files, as converted here, hold 8088 rows.)
 
   ieeg/*_ieeg.vhdr/.vmrk/.eeg  BrainVision, IEEE float32, microvolts (resolution 1).
   ieeg/*_channels.tsv          channel type, author bad-channel flags and per-electrode source statistics.
@@ -96,9 +112,29 @@ with this description, units mm.
 
 Participants and privacy
 ------------------------
-The source provides only species and a subject code per participant; the data descriptor reports
-age and sex only in aggregate tables, which are not copied. The authors stripped recording dates
-(session dates in the NWB are placeholders, 2000-01-0x); BIDS files carry no dates.
+participants.tsv gives, per participant: species (NWB subject record) and, from Peterson et al. (2022)
+Table 2 "Individual participant characteristics", age (years), sex (M/F), hemisphere_implanted (L/R),
+recording_days_used, surface_electrodes_good / surface_electrodes_total and depth_electrodes_good /
+depth_electrodes_total; participants.json describes each column and its source. Paper participants
+P01-P12 = sub-01 ... sub-12 (the electrode totals equal the electrodes.tsv row counts and the recording
+days equal the number of ses-* folders). The authors stripped recording dates (session dates in the
+NWB are placeholders, 2000-01-0x); BIDS files carry no dates.
+
+How to load
+-----------
+Example with MNE-Python / MNE-BIDS (fetch the files you need first, e.g. `nemar dataset get` or
+`datalad get`):
+
+    from mne_bids import BIDSPath, read_raw_bids
+    bp = BIDSPath(root="<dataset root>", subject="01", session="3", task="naturalistic",
+                  datatype="ieeg", suffix="ieeg", extension=".vhdr")
+    raw = read_raw_bids(bp)        # 500 Hz, microvolts in file, volts in MNE; NaN = monitoring break
+    import pandas as pd
+    ev = pd.read_csv(bp.copy().update(suffix="events", extension=".tsv").fpath, sep="\t")
+    reaches = ev[ev.trial_type == "reach_onset"]
+
+Each file spans a full day (up to 86400 s at 500 Hz, about 43 M samples per channel); load lazily or
+crop before calling load_data().
 
 Conversion checks
 -----------------

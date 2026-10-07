@@ -19,10 +19,14 @@
     }
   },
   "coarse_label": {
-    "Description": "Source intervals/epochs label, verbatim. Boundaries are at the source 30 Hz frame grid; the source converter assigns each transition to the last frame of the previous label (np.diff index without +1)."
+    "Description": "Source intervals/epochs label, verbatim. Boundaries are at the source 30 Hz frame grid; the source converter assigns each transition to the last frame of the previous label (np.diff index without +1). Labels from coarse annotation of the video roughly every 3 minutes (Peterson et al. 2022, 'Coarse behavioral labels'): activity labels (Sleep/rest, Inactive, and active behaviours such as Talk, TV, Computer/phone, Eat, Other activity; comma-separated combinations are concurrent detailed active labels, which can overlap in time) and 'Blocklist (...)' labels marking times where event detection would likely be inaccurate (camera movement or occlusion, private time, unrelated experiments, data breaks, clinical procedures, tether/bandage, hands under blanket). Some rows have an empty label value."
   },
   "wrist": {
-    "Description": "Source ReachEvents description (which wrist)."
+    "Description": "Source ReachEvents description: the wrist whose movement onset was detected (the wrist contralateral to the implanted hemisphere; Peterson et al. 2022, 'Wrist movement event identification').",
+    "Levels": {
+      "l_wrist": "left wrist",
+      "r_wrist": "right wrist"
+    }
   },
   "reach_magnitude_px": {
     "Description": "Source Reach_magnitude_px (image pixels)."

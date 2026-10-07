@@ -43,5 +43,18 @@
       "Name": "laneB_ieeg002_bids.py (iEEG-NEMAR campaign 2026-10)",
       "Description": "Writes the NWB acquisition/ElectricalSeries stored float32 microvolt values byte-for-byte as BrainVision float32; maps ReachEvents, reach features and coarse behaviour labels to events with a per-file verified clock offset; copies original NWB files byte-identically into sourcedata/."
     }
+  ],
+  "Keywords": [
+    "electrocorticography",
+    "ECoG",
+    "iEEG",
+    "long-term monitoring",
+    "naturalistic behavior",
+    "wrist movement",
+    "pose estimation",
+    "behavior labels",
+    "epilepsy",
+    "NWB",
+    "DANDI"
   ]
 }
