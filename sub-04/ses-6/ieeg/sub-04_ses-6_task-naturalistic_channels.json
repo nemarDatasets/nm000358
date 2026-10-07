@@ -1,0 +1,42 @@
+{
+  "name": {
+    "Description": "Generated name <NWB electrode group>_<NWB electrode id, zero-padded>. The source does not store the clinical contact labels; the number is the NWB electrodes-table id, not a clinical contact number."
+  },
+  "type": {
+    "Description": "ECOG unless the source group description states a depth electrode (then SEEG)."
+  },
+  "low_cutoff": {
+    "Description": "Lower edge of the authors' 1-200 Hz band-pass.",
+    "Units": "Hz"
+  },
+  "high_cutoff": {
+    "Description": "Upper edge of the authors' 1-200 Hz band-pass.",
+    "Units": "Hz"
+  },
+  "status": {
+    "Description": "From the NWB electrodes \"good\" column."
+  },
+  "source_electrode_id": {
+    "Description": "NWB electrodes table id."
+  },
+  "source_filtering": {
+    "Description": "NWB electrodes table \"filtering\" column, verbatim."
+  },
+  "standard_deviation": {
+    "Description": "Source column: SD of the electrode over the whole file (authors).",
+    "Units": "µV"
+  },
+  "kurtosis": {
+    "Description": "Source column: kurtosis of the electrode over the whole file (authors)."
+  },
+  "median_deviation": {
+    "Description": "Source column: MAD-based SD estimate (authors).",
+    "Units": "µV"
+  },
+  "low_freq_R2": {
+    "Description": "Source column: R^2 for low-frequency band (authors' decoding model)."
+  },
+  "high_freq_R2": {
+    "Description": "Source column: R^2 for high-frequency band (authors' decoding model)."
+  }
+}

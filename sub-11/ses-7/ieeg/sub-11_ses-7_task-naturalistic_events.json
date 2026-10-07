@@ -1,0 +1,57 @@
+{
+  "onset": {
+    "Description": "Seconds from the first ECoG sample. reach_onset uses NWB ReachEvents timestamps (ECoG clock) unchanged. coarse_label onsets = source_time_of_day - D, where D is the UTC seconds-of-day of the NWB session_start_time (the ECoG start); negative values are labels starting before the first ECoG sample. nan_segment = runs of samples that are NaN on all channels in the source.",
+    "Units": "s"
+  },
+  "duration": {
+    "Description": "reach: source reach duration (stop - start); coarse_label: label interval; nan_segment: run length.",
+    "Units": "s"
+  },
+  "sample": {
+    "Description": "round(onset * 500), zero-based; n/a for onsets before the first sample."
+  },
+  "trial_type": {
+    "Description": "Event class",
+    "Levels": {
+      "reach_onset": "Wrist movement initiation event (authors, pose-based, visually validated).",
+      "coarse_label": "Coarse behavioural state label from video annotation (authors).",
+      "nan_segment": "Samples stored as NaN on all channels in the source (monitoring break)."
+    }
+  },
+  "coarse_label": {
+    "Description": "Source intervals/epochs label, verbatim. Boundaries are at the source 30 Hz frame grid; the source converter assigns each transition to the last frame of the previous label (np.diff index without +1)."
+  },
+  "wrist": {
+    "Description": "Source ReachEvents description (which wrist)."
+  },
+  "reach_magnitude_px": {
+    "Description": "Source Reach_magnitude_px (image pixels)."
+  },
+  "reach_angle_degrees": {
+    "Description": "Source Reach_angle_degrees.",
+    "Units": "degrees"
+  },
+  "onset_speed_px_per_sec": {
+    "Description": "Source Onset_speed_px_per_sec (pixels/s)."
+  },
+  "speech_ratio": {
+    "Description": "Source Speech_ratio."
+  },
+  "bimanual_ratio": {
+    "Description": "Source Bimanual_ratio."
+  },
+  "bimanual_overlap": {
+    "Description": "Source Bimanual_overlap (the source column description calls it a fraction of the contralateral movement duration; the source CSV header says seconds)."
+  },
+  "bimanual_class": {
+    "Description": "Source Bimanual_class (0 unimanual, 1 bimanual)."
+  },
+  "source_ecog_time": {
+    "Description": "NWB ReachEvents timestamp (ECoG clock).",
+    "Units": "s"
+  },
+  "source_time_of_day": {
+    "Description": "Original day-clock time (seconds after midnight) from NWB intervals/reaches or intervals/epochs.",
+    "Units": "s"
+  }
+}

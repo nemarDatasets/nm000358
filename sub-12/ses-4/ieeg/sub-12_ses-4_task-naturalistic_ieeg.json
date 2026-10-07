@@ -1,0 +1,49 @@
+{
+  "TaskName": "naturalistic",
+  "TaskDescription": "No task: unstructured, naturalistic behaviour during clinical long-term epilepsy monitoring; one file per recording day (midnight to midnight).",
+  "InstitutionName": "Harborview Medical Center",
+  "SamplingFrequency": 500.0,
+  "PowerLineFrequency": 60,
+  "SoftwareFilters": {
+    "MedianDCRemoval": {
+      "Description": "median voltage subtracted per electrode"
+    },
+    "DiscontinuityZeroing": {
+      "Description": "data within 2 s of high-amplitude discontinuities (>50 IQR electrode-averaged absolute voltage) set to 0"
+    },
+    "BandPass": {
+      "Description": "band-pass filter",
+      "CutoffHz": [
+        1,
+        200
+      ]
+    },
+    "Notch": {
+      "Description": "notch filter at 60 Hz and harmonics"
+    },
+    "Downsampling": {
+      "Description": "downsampled from 1000 Hz to 500 Hz"
+    }
+  },
+  "HardwareFilters": {
+    "SourceElectrodeFilteringColumn": {
+      "Description": "NWB electrodes table \"filtering\" column, verbatim: 250 Hz lowpass"
+    }
+  },
+  "iEEGReference": "Common median reference computed separately for each grid, strip or depth electrode group (applied by the authors; Peterson et al. 2022). The acquisition reference is not documented.",
+  "iEEGGround": "Not documented by the source.",
+  "iEEGElectrodeGroups": "AHD: anterior hippocampal depth; AID: anterior insular depth; GRID: ECoG grid; LAT: left anterior temporal; LMT: left medial temporal; LOF: left orbitofrontal; LPT: left posterior temporal; LTP: left temporal pole; PHD: posterior hippocampal depth; PID: posterior insular depth",
+  "iEEGPlacementScheme": "Clinically placed electrodes; participants selected for coverage near motor cortex.",
+  "ECOGChannelCount": 92,
+  "SEEGChannelCount": 32,
+  "EEGChannelCount": 0,
+  "EOGChannelCount": 0,
+  "ECGChannelCount": 0,
+  "EMGChannelCount": 0,
+  "MiscChannelCount": 0,
+  "TriggerChannelCount": 0,
+  "RecordingDuration": 86400.0,
+  "RecordingType": "continuous",
+  "ElectricalStimulation": false,
+  "SubjectArtefactDescription": "Monitoring breaks are stored as NaN samples (see nan_segment events)."
+}

@@ -1,0 +1,396 @@
+{
+ "dataset": "DANDI 000055",
+ "source_release": "DANDI:000055/0.220127.0436",
+ "doi": "10.48324/dandi.000055/0.220127.0436",
+ "license": "CC-BY-4.0",
+ "retrieved_by": "dandi CLI download (dandi 0.81.0) + independent SHA-256 verification",
+ "n_files": 55,
+ "total_bytes": 845869698341,
+ "files": [
+  {
+   "file": "sub-01/sub-01_ses-3_behavior+ecephys.nwb",
+   "bytes": 15903762527,
+   "sha256": "943f57a0d417445158cee76eb7147cc97d562848aa6993593ee8f3930c55be7e",
+   "dandi_asset_id": "7b9e2ca1-9097-488a-b4e9-ac407fb31457",
+   "subject": "sub-01"
+  },
+  {
+   "file": "sub-01/sub-01_ses-4_behavior+ecephys.nwb",
+   "bytes": 15925970691,
+   "sha256": "df177cd813519e8f0175986a3482f355623630d15bba2f827ff7cc50a193b749",
+   "dandi_asset_id": "f47baec3-984b-419c-998e-b47414f9aa4c",
+   "subject": "sub-01"
+  },
+  {
+   "file": "sub-01/sub-01_ses-5_behavior+ecephys.nwb",
+   "bytes": 15909602501,
+   "sha256": "06c497598c17096db60c90a3687e5f46fa0df29235839dc75d2f174fd1d0bfe2",
+   "dandi_asset_id": "7a8fe889-58bc-4b33-a39b-58c32f607723",
+   "subject": "sub-01"
+  },
+  {
+   "file": "sub-01/sub-01_ses-7_behavior+ecephys.nwb",
+   "bytes": 10273614013,
+   "sha256": "2417921a5a646628c673582cef265a5f8e14f479bb1dd8dc73121060a8677ba5",
+   "dandi_asset_id": "ccdc3ae1-e98d-4a17-93d8-5b7386689fe0",
+   "subject": "sub-01"
+  },
+  {
+   "file": "sub-02/sub-02_ses-3_behavior+ecephys.nwb",
+   "bytes": 13932801912,
+   "sha256": "dabb49c09a13e0888928dc4a21b9531c05da37f18fad3e6bbaddc5a1e1cdf387",
+   "dandi_asset_id": "42f73251-88be-4407-a7bf-4ea671bbb448",
+   "subject": "sub-02"
+  },
+  {
+   "file": "sub-02/sub-02_ses-4_behavior+ecephys.nwb",
+   "bytes": 13935231305,
+   "sha256": "839f928fb51ebdf9a87243cd5379c9d0db3cb0bf1fe81b0078abb04f576e2102",
+   "dandi_asset_id": "f908df60-207d-452b-81a8-3b47680d31c9",
+   "subject": "sub-02"
+  },
+  {
+   "file": "sub-02/sub-02_ses-5_behavior+ecephys.nwb",
+   "bytes": 13931092404,
+   "sha256": "f7a95138dda2e0ec820c26395e8c301328195c68a29601806511c7a9b0bd9fc8",
+   "dandi_asset_id": "3b7d0c35-abdf-4ca2-84a1-706bbd6fea03",
+   "subject": "sub-02"
+  },
+  {
+   "file": "sub-02/sub-02_ses-6_behavior+ecephys.nwb",
+   "bytes": 13938729701,
+   "sha256": "6e44ec3a9492c7f73bca1bc922f8d406e980a5f2c1f40313487e30492990be69",
+   "dandi_asset_id": "367a151f-020f-4498-b144-d721872cad61",
+   "subject": "sub-02"
+  },
+  {
+   "file": "sub-03/sub-03_ses-3_behavior+ecephys.nwb",
+   "bytes": 12993721651,
+   "sha256": "cb47e04883272a5d8152530bdf3655d2a79119ab032d4cf8d437a3d569c6fcd2",
+   "dandi_asset_id": "5122cc42-981c-4fa3-92f4-5f9ccfb8c092",
+   "subject": "sub-03"
+  },
+  {
+   "file": "sub-03/sub-03_ses-4_behavior+ecephys.nwb",
+   "bytes": 13013447892,
+   "sha256": "e7f8fee54bb5368d3718e622513c3792670d11bc4eaee0fc5bfc175dd58d4d46",
+   "dandi_asset_id": "263d8a0a-167b-4a35-83b6-f924a455178f",
+   "subject": "sub-03"
+  },
+  {
+   "file": "sub-03/sub-03_ses-5_behavior+ecephys.nwb",
+   "bytes": 12882908477,
+   "sha256": "f3eac5607f65be7322eff9fa20ce262748a3222403dcde4a0aca44f0a5f00ab4",
+   "dandi_asset_id": "c847c7ce-8ff5-4f8b-a55f-08fa775e9070",
+   "subject": "sub-03"
+  },
+  {
+   "file": "sub-03/sub-03_ses-6_behavior+ecephys.nwb",
+   "bytes": 12766259947,
+   "sha256": "93e1033ab85fb48f8d17feeceeee4e7c7a655024c39133081df98c0c0ccc7094",
+   "dandi_asset_id": "0dc4d614-b245-4b00-853d-0e3aa8690a2b",
+   "subject": "sub-03"
+  },
+  {
+   "file": "sub-04/sub-04_ses-3_behavior+ecephys.nwb",
+   "bytes": 8423945777,
+   "sha256": "a982a9ce4718c1d86aff4943306c6a4e936a64b44bcc899ac10d9c8c71da646e",
+   "dandi_asset_id": "554a74cc-824b-4a02-8b23-63aa51ac2369",
+   "subject": "sub-04"
+  },
+  {
+   "file": "sub-04/sub-04_ses-4_behavior+ecephys.nwb",
+   "bytes": 13233736922,
+   "sha256": "f7c997d11f687c7f3634dd62f1bab03ecaba25d95f9cda1e4c4fab5f10353ade",
+   "dandi_asset_id": "d914679e-dd71-4c7e-86be-92eaebfff0cd",
+   "subject": "sub-04"
+  },
+  {
+   "file": "sub-04/sub-04_ses-5_behavior+ecephys.nwb",
+   "bytes": 13534463081,
+   "sha256": "75f88bd57a138c0d9d5f38fb3447fd6577f43602421657f9f8651fde4a9c6b89",
+   "dandi_asset_id": "b2e73f29-0521-4c5b-8674-84e2507902df",
+   "subject": "sub-04"
+  },
+  {
+   "file": "sub-04/sub-04_ses-6_behavior+ecephys.nwb",
+   "bytes": 12991088768,
+   "sha256": "bc26479b8e40bf28f078c17cbcf5955cdc6f2a447030076c53bfd3cc9c1d3e5e",
+   "dandi_asset_id": "8d27e55c-2cc4-428b-b8fa-ba57e4ef939a",
+   "subject": "sub-04"
+  },
+  {
+   "file": "sub-04/sub-04_ses-7_behavior+ecephys.nwb",
+   "bytes": 13574276744,
+   "sha256": "1e109f5b38e44a8711e3be0de6ab03ff92a5aa993d649b5f66d90ad9288d1bc6",
+   "dandi_asset_id": "c2086647-7ac0-406d-8ec4-cca30cfdd9bd",
+   "subject": "sub-04"
+  },
+  {
+   "file": "sub-05/sub-05_ses-3_behavior+ecephys.nwb",
+   "bytes": 17155594911,
+   "sha256": "056ee3ce118a30b1db7f9486d7fe1d7bb15107c0d974d94524b3cea8e47196c6",
+   "dandi_asset_id": "c4674f3f-fd0d-471c-a9a4-a0d0eeaed105",
+   "subject": "sub-05"
+  },
+  {
+   "file": "sub-05/sub-05_ses-4_behavior+ecephys.nwb",
+   "bytes": 17170906865,
+   "sha256": "d2a1c4708dbc29a1db21afcd959583bbacc1898e168ea67fef993b9db3a30f61",
+   "dandi_asset_id": "9c88256e-3088-4bbb-b6c5-b4f0e25e4129",
+   "subject": "sub-05"
+  },
+  {
+   "file": "sub-05/sub-05_ses-7_behavior+ecephys.nwb",
+   "bytes": 16978351793,
+   "sha256": "abfb0c04aed17a423a93bf2b485d6dac35a0ebd16a6291ba8898b97ff56257c3",
+   "dandi_asset_id": "8b92ef63-1761-4aa0-8eff-2f0f1af51154",
+   "subject": "sub-05"
+  },
+  {
+   "file": "sub-06/sub-06_ses-3_behavior+ecephys.nwb",
+   "bytes": 8620317009,
+   "sha256": "8940fed2ac6239b7f5667547b5ace7828d662fe687dc1a1a2f05e75826bf17e4",
+   "dandi_asset_id": "87c2f790-8f6c-4e73-a54f-f275af6a2680",
+   "subject": "sub-06"
+  },
+  {
+   "file": "sub-06/sub-06_ses-4_behavior+ecephys.nwb",
+   "bytes": 12885238804,
+   "sha256": "2f688c4850e5cc633cce2b4847e8cf5d5d6d910b0219739817f7524a6198fd0b",
+   "dandi_asset_id": "eea59c28-3e69-4fb6-a6c0-fbd57dd303cc",
+   "subject": "sub-06"
+  },
+  {
+   "file": "sub-06/sub-06_ses-5_behavior+ecephys.nwb",
+   "bytes": 12971863868,
+   "sha256": "ce6bd72aaad361bade064a5ba5e83bdabde731fc7cf9339892fa92b6ab392e87",
+   "dandi_asset_id": "1b8e9511-a2df-440e-b34f-6348d90f4495",
+   "subject": "sub-06"
+  },
+  {
+   "file": "sub-06/sub-06_ses-6_behavior+ecephys.nwb",
+   "bytes": 12898217183,
+   "sha256": "983dce7723970776fc6c80589a790114618a8f7ad9d9724d90331aed39d304e1",
+   "dandi_asset_id": "c1dbcf02-a819-42e2-8ced-6268fc9e7543",
+   "subject": "sub-06"
+  },
+  {
+   "file": "sub-06/sub-06_ses-7_behavior+ecephys.nwb",
+   "bytes": 12849759318,
+   "sha256": "0302aac48fe62ef4118d017e6c8f59edb698225f066968e56af853dad7dac7eb",
+   "dandi_asset_id": "91627a3e-186b-4baf-85ce-6fb298d2a0fd",
+   "subject": "sub-06"
+  },
+  {
+   "file": "sub-07/sub-07_ses-3_behavior+ecephys.nwb",
+   "bytes": 10021863235,
+   "sha256": "a80285a4fd829aaba58c8b36fd670c6594d3d98708aa32282e962f5a07d6728c",
+   "dandi_asset_id": "5791a9f3-5c0c-484b-b690-b5ce9fea589e",
+   "subject": "sub-07"
+  },
+  {
+   "file": "sub-07/sub-07_ses-4_behavior+ecephys.nwb",
+   "bytes": 10395219939,
+   "sha256": "2e6bc139cf5cfe913283a17d451474ea3b2563cc0beda41edbd19b0cd4fc0be3",
+   "dandi_asset_id": "dbf11bb5-e73c-43aa-8f9e-d87807e09971",
+   "subject": "sub-07"
+  },
+  {
+   "file": "sub-07/sub-07_ses-5_behavior+ecephys.nwb",
+   "bytes": 10409046599,
+   "sha256": "dd7f25f8d8f458a65d85dd0c0bf4f0006c44ff7ceffab842a9b34f6bd728b81d",
+   "dandi_asset_id": "b33fadbb-a6b1-45aa-8dce-7179a4968fef",
+   "subject": "sub-07"
+  },
+  {
+   "file": "sub-07/sub-07_ses-6_behavior+ecephys.nwb",
+   "bytes": 10431086594,
+   "sha256": "08c9c121728e94e3a132f75a165665ba475bbc42af2f0a8a5878e3e22080f53b",
+   "dandi_asset_id": "9cbcf6f1-1bb2-4054-bd7f-efe76e78caaf",
+   "subject": "sub-07"
+  },
+  {
+   "file": "sub-07/sub-07_ses-7_behavior+ecephys.nwb",
+   "bytes": 10389089705,
+   "sha256": "5caca10d6206eb984f6fe34d2727d8ab8450d788afa30066b8646bc4a50df70e",
+   "dandi_asset_id": "fbb5c167-42a3-4de1-b89b-54f944998d8c",
+   "subject": "sub-07"
+  },
+  {
+   "file": "sub-08/sub-08_ses-3_behavior+ecephys.nwb",
+   "bytes": 14919492016,
+   "sha256": "95ab8bb566dc23f7153946f0a67fd2c6641bc70662ee6e7fd2ba0b9483e41de6",
+   "dandi_asset_id": "7de9b149-2994-455e-a8c6-5e5893245baf",
+   "subject": "sub-08"
+  },
+  {
+   "file": "sub-08/sub-08_ses-4_behavior+ecephys.nwb",
+   "bytes": 14898053963,
+   "sha256": "04029121342ab4f56dc5b8b487e166bfd49ff752012ccf4fd535e083b8e611cc",
+   "dandi_asset_id": "07fe6ecc-1a51-4655-a925-dcc3ecb6183f",
+   "subject": "sub-08"
+  },
+  {
+   "file": "sub-08/sub-08_ses-5_behavior+ecephys.nwb",
+   "bytes": 14908358276,
+   "sha256": "c6468f2a151de3dce6e2e9a4b36ad28591e443a55008cb7e42f02915beb747fb",
+   "dandi_asset_id": "8deb156d-b2f9-45ca-a760-79b6746fd938",
+   "subject": "sub-08"
+  },
+  {
+   "file": "sub-08/sub-08_ses-6_behavior+ecephys.nwb",
+   "bytes": 14686305858,
+   "sha256": "dd2d34a48cfcc4b7dd5f8456429d026dcd8dad5fc3d6cf3a8dd37eb338178550",
+   "dandi_asset_id": "7691f8de-eb74-4461-a56b-8b2a690c37a9",
+   "subject": "sub-08"
+  },
+  {
+   "file": "sub-08/sub-08_ses-7_behavior+ecephys.nwb",
+   "bytes": 14860932771,
+   "sha256": "b3df3fbd2116fedbac4e92ad4a5c49ed4748bf327d999dafe3c78c02ff352b72",
+   "dandi_asset_id": "7edc7127-d2a5-48c7-96fb-5080c64c075c",
+   "subject": "sub-08"
+  },
+  {
+   "file": "sub-09/sub-09_ses-3_behavior+ecephys.nwb",
+   "bytes": 19794037714,
+   "sha256": "2635ebb93567752019ed69e1d2951e53c2d137a1e038edaf7df2c127f3ba4778",
+   "dandi_asset_id": "b5b123ea-557f-4b69-ad11-8b3ff6bc9bd5",
+   "subject": "sub-09"
+  },
+  {
+   "file": "sub-09/sub-09_ses-4_behavior+ecephys.nwb",
+   "bytes": 19741644394,
+   "sha256": "0d220f2c055dc20f28620f9510433de67c343abebad5d24185db818de8d332d4",
+   "dandi_asset_id": "4d960b31-6a46-4578-a620-2dfdad46bf55",
+   "subject": "sub-09"
+  },
+  {
+   "file": "sub-09/sub-09_ses-5_behavior+ecephys.nwb",
+   "bytes": 19775078934,
+   "sha256": "2fcc2a55a4de58dd073d8ea529ededfe781809f4ab952808d20bde792a354f73",
+   "dandi_asset_id": "8c8617f8-033d-4f67-b045-9d8a80157d2e",
+   "subject": "sub-09"
+  },
+  {
+   "file": "sub-09/sub-09_ses-6_behavior+ecephys.nwb",
+   "bytes": 19678132251,
+   "sha256": "2e74acc1fe5fe4c3f2e7c2457b1e2b768eb26b3ce1627d94c71f4bdf80c44f25",
+   "dandi_asset_id": "9000de0d-961a-43f6-98f8-f8a029021b3d",
+   "subject": "sub-09"
+  },
+  {
+   "file": "sub-09/sub-09_ses-7_behavior+ecephys.nwb",
+   "bytes": 19584392586,
+   "sha256": "ddc9fd5923960c80b624f249ecefb0a4c4c9ebfb3f8bfc7b07a3b62582fcc08a",
+   "dandi_asset_id": "03a5fed4-56bf-4562-b86d-a1ee8232b4bc",
+   "subject": "sub-09"
+  },
+  {
+   "file": "sub-10/sub-10_ses-3_behavior+ecephys.nwb",
+   "bytes": 19715930499,
+   "sha256": "6ae08347daed71deebe677798cab7db69e04be728b18ba07a645c6add2942486",
+   "dandi_asset_id": "e22abf61-170a-4d52-89f5-27e394e04afa",
+   "subject": "sub-10"
+  },
+  {
+   "file": "sub-10/sub-10_ses-4_behavior+ecephys.nwb",
+   "bytes": 19723279309,
+   "sha256": "6ae359fd31373e825b456605426135040859c566b04030bbd25ba40501b0f308",
+   "dandi_asset_id": "0d4e2bea-fd00-405f-923c-86141269c39a",
+   "subject": "sub-10"
+  },
+  {
+   "file": "sub-10/sub-10_ses-5_behavior+ecephys.nwb",
+   "bytes": 19242804839,
+   "sha256": "165ab694ba28274704983380c1903ceec79dcc9542b697d84797cb6f0c97a728",
+   "dandi_asset_id": "ed1be986-96ee-41c7-9c26-70cf63ca6e18",
+   "subject": "sub-10"
+  },
+  {
+   "file": "sub-10/sub-10_ses-6_behavior+ecephys.nwb",
+   "bytes": 19616485214,
+   "sha256": "f321c1980a987ee6c50e473d377369d27ebd53ff5b8a9dbd731d841a736bdc91",
+   "dandi_asset_id": "65a1370b-f9ee-414c-a59c-5739a9cf74c5",
+   "subject": "sub-10"
+  },
+  {
+   "file": "sub-10/sub-10_ses-7_behavior+ecephys.nwb",
+   "bytes": 19486355432,
+   "sha256": "b48ca570620b99c1e92f20254a55de309535e103db2dd3387e41f985195b634f",
+   "dandi_asset_id": "baa2614a-0320-4b5f-b86c-e56700cedfb0",
+   "subject": "sub-10"
+  },
+  {
+   "file": "sub-11/sub-11_ses-3_behavior+ecephys.nwb",
+   "bytes": 17160159566,
+   "sha256": "42ce126cdf84ae9224235dffc4442fd9793f07b94526c7f88ce80f5971424a22",
+   "dandi_asset_id": "0b4aac2b-e080-4854-b792-4ea4359e2044",
+   "subject": "sub-11"
+  },
+  {
+   "file": "sub-11/sub-11_ses-4_behavior+ecephys.nwb",
+   "bytes": 16985717017,
+   "sha256": "f3f145c11adeae27ca7e3110f94dffca073b9737954a9de4d93441f2aafe0ec4",
+   "dandi_asset_id": "1fc40baf-4007-4d96-9d6a-61213b14aecd",
+   "subject": "sub-11"
+  },
+  {
+   "file": "sub-11/sub-11_ses-5_behavior+ecephys.nwb",
+   "bytes": 17130638679,
+   "sha256": "2de42847cb73cbd0a0b6f228a1e9cf4ca74f88bbf537668bbf1de4049de3a11f",
+   "dandi_asset_id": "2540d025-f180-4242-aec1-ed0e162597d3",
+   "subject": "sub-11"
+  },
+  {
+   "file": "sub-11/sub-11_ses-6_behavior+ecephys.nwb",
+   "bytes": 17150028045,
+   "sha256": "5e44387581aa0c8ef592184cae4100145f27782b66e62cc81fb68a757226130d",
+   "dandi_asset_id": "b66295f2-40d4-4362-9243-7b7125c091f9",
+   "subject": "sub-11"
+  },
+  {
+   "file": "sub-11/sub-11_ses-7_behavior+ecephys.nwb",
+   "bytes": 17065046889,
+   "sha256": "30140c00e77bd4ab35ae7411ac7a8d2e69ce367d3fe2f9abf9f51448508267f3",
+   "dandi_asset_id": "b8f1e63b-9946-4024-bd0e-1d508e2ffa78",
+   "subject": "sub-11"
+  },
+  {
+   "file": "sub-12/sub-12_ses-3_behavior+ecephys.nwb",
+   "bytes": 19928317351,
+   "sha256": "e0f2fe25556c77867793c1bdf95c232b33b338b4d5c4bfcc320803e04f087616",
+   "dandi_asset_id": "3db4e507-c2de-4ab3-a052-88d9800f36d0",
+   "subject": "sub-12"
+  },
+  {
+   "file": "sub-12/sub-12_ses-4_behavior+ecephys.nwb",
+   "bytes": 19946639193,
+   "sha256": "7f1767df98a99a78022f8c5c3b988102356af81232ffbc5d81fb971e0906bb52",
+   "dandi_asset_id": "257cec4c-84ba-4047-815c-a790d4f51d7e",
+   "subject": "sub-12"
+  },
+  {
+   "file": "sub-12/sub-12_ses-5_behavior+ecephys.nwb",
+   "bytes": 19949722928,
+   "sha256": "c91e359cf18e925589249b5d208b3674e7e45d2df2df8b39a6ed08ef5048c7d2",
+   "dandi_asset_id": "dd6e50f0-c212-478b-b635-470a84f619cc",
+   "subject": "sub-12"
+  },
+  {
+   "file": "sub-12/sub-12_ses-6_behavior+ecephys.nwb",
+   "bytes": 19968968331,
+   "sha256": "108a1658f0449f38163ec0304c087e93f80c8c1bf524c83701c196ce12d12499",
+   "dandi_asset_id": "edfe2e2e-f771-4dfe-aff2-b902eecc7846",
+   "subject": "sub-12"
+  },
+  {
+   "file": "sub-12/sub-12_ses-7_behavior+ecephys.nwb",
+   "bytes": 19611966150,
+   "sha256": "1b4c66b16c0658d69992dfc1b099240feaf3b36411bdacfb73026c301e39d076",
+   "dandi_asset_id": "25f58d6b-87dd-4a76-a88f-97cf49ee0857",
+   "subject": "sub-12"
+  }
+ ]
+}

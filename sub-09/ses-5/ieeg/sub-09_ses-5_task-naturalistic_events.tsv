@@ -1,0 +1,1550 @@
+onset	duration	sample	trial_type	coarse_label	wrist	reach_magnitude_px	reach_angle_degrees	onset_speed_px_per_sec	speech_ratio	bimanual_ratio	bimanual_overlap	bimanual_class	source_ecog_time	source_time_of_day
+0.000000	84.733333	0	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	0.000000
+84.733333	121.633333	42367	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	84.733333
+206.366667	0.033333	103183	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	206.366667
+206.400000	118.500000	103200	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	206.400000
+324.900000	0.066667	162450	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	324.900000
+324.966667	119.566667	162483	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	324.966667
+444.533333	0.066667	222267	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	444.533333
+444.600000	120.466667	222300	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	444.600000
+565.066667	0.100000	282533	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	565.066667
+565.166667	119.600000	282583	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	565.166667
+684.766667	0.033333	342383	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	684.766667
+684.800000	119.800000	342400	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	684.800000
+804.600000	0.266667	402300	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	804.600000
+804.866667	143.100000	402433	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	804.866667
+947.966667	0.200000	473983	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	947.966667
+948.166667	96.266667	474083	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	948.166667
+1044.433333	0.100000	522217	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1044.433333
+1044.533333	125.133333	522267	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1044.533333
+1169.666667	0.300000	584833	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1169.666667
+1169.966667	116.566667	584983	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1169.966667
+1286.533333	0.166667	643267	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1286.533333
+1286.700000	132.133333	643350	coarse_label	Inactive	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1286.700000
+1418.833333	0.233333	709417	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1418.833333
+1419.066667	112.866667	709533	coarse_label	Inactive	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1419.066667
+1531.933333	0.166667	765967	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1531.933333
+1532.100000	112.866667	766050	coarse_label	Inactive	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1532.100000
+1644.966667	0.166667	822483	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1644.966667
+1645.133333	120.066667	822567	coarse_label	Inactive	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1645.133333
+1765.200000	0.166667	882600	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1765.200000
+1765.366667	120.066667	882683	coarse_label	Inactive	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1765.366667
+1885.433333	0.166667	942717	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1885.433333
+1885.600000	118.766667	942800	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1885.600000
+2004.366667	0.266667	1002183	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	2004.366667
+2004.633333	120.000000	1002317	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	2004.633333
+2124.633333	0.266667	1062317	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	2124.633333
+2124.900000	120.100000	1062450	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	2124.900000
+2245.000000	0.166667	1122500	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	2245.000000
+2245.166667	129.600000	1122583	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	2245.166667
+2374.766667	0.266667	1187383	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	2374.766667
+2375.033333	110.533333	1187517	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	2375.033333
+2485.566667	0.100000	1242783	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	2485.566667
+2485.666667	118.833333	1242833	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	2485.666667
+2604.500000	0.233333	1302250	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	2604.500000
+2604.733333	120.000000	1302367	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	2604.733333
+2724.733333	0.266667	1362367	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	2724.733333
+2725.000000	120.100000	1362500	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	2725.000000
+2845.100000	0.166667	1422550	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	2845.100000
+2845.266667	120.033333	1422633	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	2845.266667
+2965.300000	0.233333	1482650	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	2965.300000
+2965.533333	135.733333	1482767	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	2965.533333
+3101.266667	0.133333	1550633	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	3101.266667
+3101.400000	105.666667	1550700	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	3101.400000
+3207.066667	0.133333	1603533	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	3207.066667
+3207.200000	117.700000	1603600	coarse_label	Inactive	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	3207.200000
+3324.900000	0.166667	1662450	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	3324.900000
+3325.066667	121.166667	1662533	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	3325.066667
+3446.233333	0.300000	1723117	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	3446.233333
+3446.533333	118.933333	1723267	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	3446.533333
+3565.466667	0.100000	1782733	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	3565.466667
+3565.566667	118.800000	1782783	coarse_label	Inactive	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	3565.566667
+3684.366667	0.300000	1842183	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	3684.366667
+3684.666667	140.566667	1842333	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	3684.666667
+3825.233333	0.133333	1912617	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	3825.233333
+3825.366667	108.100000	1912683	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	3825.366667
+3933.466667	0.133333	1966733	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	3933.466667
+3933.600000	111.633333	1966800	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	3933.600000
+4045.233333	0.266667	2022617	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	4045.233333
+4045.500000	118.866667	2022750	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	4045.500000
+4164.366667	0.200000	2082183	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	4164.366667
+4164.566667	129.833333	2082283	coarse_label	Blocklist (Camera move/zoom)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	4164.566667
+4294.400000	0.166667	2147200	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	4294.400000
+4294.566667	110.233333	2147283	coarse_label	Blocklist (Camera move/zoom)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	4294.566667
+4404.800000	0.200000	2202400	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	4404.800000
+4405.000000	120.400000	2202500	coarse_label	Blocklist (Camera move/zoom)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	4405.000000
+4525.400000	0.133333	2262700	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	4525.400000
+4525.533333	120.466667	2262767	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	4525.533333
+4646.000000	0.166667	2323000	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	4646.000000
+4646.166667	121.600000	2323083	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	4646.166667
+4767.766667	0.266667	2383883	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	4767.766667
+4768.033333	116.900000	2384017	coarse_label	Inactive	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	4768.033333
+4884.933333	0.100000	2442467	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	4884.933333
+4885.033333	121.733333	2442517	coarse_label	Inactive	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	4885.033333
+5006.766667	0.133333	2503383	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	5006.766667
+5006.900000	120.300000	2503450	coarse_label	Inactive	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	5006.900000
+5127.200000	0.300000	2563600	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	5127.200000
+5127.500000	117.933333	2563750	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	5127.500000
+5245.433333	0.166667	2622717	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	5245.433333
+5245.600000	119.133333	2622800	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	5245.600000
+5364.733333	0.166667	2682367	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	5364.733333
+5364.900000	121.433333	2682450	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	5364.900000
+5486.333333	0.300000	2743167	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	5486.333333
+5486.633333	117.866667	2743317	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	5486.633333
+5604.500000	0.233333	2802250	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	5604.500000
+5604.733333	120.200000	2802367	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	5604.733333
+5724.933333	0.266667	2862467	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	5724.933333
+5725.200000	119.166667	2862600	coarse_label	Inactive	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	5725.200000
+5844.366667	0.133333	2922183	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	5844.366667
+5844.500000	128.766667	2922250	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	5844.500000
+5973.266667	0.200000	2986633	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	5973.266667
+5973.466667	116.766667	2986733	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	5973.466667
+6090.233333	0.233333	3045117	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	6090.233333
+6090.466667	114.233333	3045233	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	6090.466667
+6204.700000	0.300000	3102350	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	6204.700000
+6205.000000	120.333333	3102500	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	6205.000000
+6325.333333	0.200000	3162667	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	6325.333333
+6325.533333	119.200000	3162767	coarse_label	Inactive	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	6325.533333
+6444.733333	0.133333	3222367	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	6444.733333
+6444.866667	120.466667	3222433	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	6444.866667
+6565.333333	0.233333	3282667	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	6565.333333
+6565.566667	122.866667	3282783	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	6565.566667
+6688.433333	0.233333	3344217	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	6688.433333
+6688.666667	115.566667	3344333	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	6688.666667
+6804.233333	0.266667	3402117	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	6804.233333
+6804.500000	120.433333	3402250	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	6804.500000
+6924.933333	0.266667	3462467	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	6924.933333
+6925.200000	122.800000	3462600	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	6925.200000
+7048.000000	0.300000	3524000	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	7048.000000
+7048.300000	116.866667	3524150	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	7048.300000
+7165.166667	0.200000	3582583	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	7165.166667
+7165.366667	121.700000	3582683	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	7165.366667
+7287.066667	0.133333	3643533	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	7287.066667
+7287.200000	118.166667	3643600	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	7287.200000
+7405.366667	0.133333	3702683	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	7405.366667
+7405.500000	119.366667	3702750	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	7405.500000
+7524.866667	0.166667	3762433	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	7524.866667
+7525.033333	119.300000	3762517	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	7525.033333
+7644.333333	0.233333	3822167	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	7644.333333
+7644.566667	120.500000	3822283	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	7644.566667
+7765.066667	0.233333	3882533	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	7765.066667
+7765.300000	125.400000	3882650	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	7765.300000
+7890.700000	0.200000	3945350	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	7890.700000
+7890.900000	119.300000	3945450	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	7890.900000
+8010.200000	0.233333	4005100	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	8010.200000
+8010.433333	121.700000	4005217	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	8010.433333
+8132.133333	0.166667	4066067	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	8132.133333
+8132.300000	112.100000	4066150	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	8132.300000
+8244.400000	0.133333	4122200	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	8244.400000
+8244.533333	120.466667	4122267	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	8244.533333
+8365.000000	0.266667	4182500	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	8365.000000
+8365.266667	119.366667	4182633	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	8365.266667
+8484.633333	0.200000	4242317	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	8484.633333
+8484.833333	126.566667	4242417	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	8484.833333
+8611.400000	0.200000	4305700	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	8611.400000
+8611.600000	114.533333	4305800	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	8611.600000
+8726.133333	0.200000	4363067	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	8726.133333
+8726.333333	119.366667	4363167	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	8726.333333
+8845.700000	0.100000	4422850	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	8845.700000
+8845.800000	123.033333	4422900	coarse_label	Inactive	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	8845.800000
+8968.833333	0.133333	4484417	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	8968.833333
+8968.966667	115.633333	4484483	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	8968.966667
+9084.600000	0.266667	4542300	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	9084.600000
+9084.866667	123.000000	4542433	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	9084.866667
+9207.866667	0.133333	4603933	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	9207.866667
+9208.000000	116.933333	4604000	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	9208.000000
+9324.933333	0.233333	4662467	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	9324.933333
+9325.166667	119.366667	4662583	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	9325.166667
+9444.533333	0.100000	4722267	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	9444.533333
+9444.633333	124.100000	4722317	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	9444.633333
+9568.733333	0.300000	4784367	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	9568.733333
+9569.033333	120.566667	4784517	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	9569.033333
+9689.600000	0.133333	4844800	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	9689.600000
+9689.733333	116.933333	4844867	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	9689.733333
+9806.666667	0.233333	4903333	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	9806.666667
+9806.900000	118.200000	4903450	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	9806.900000
+9925.100000	0.100000	4962550	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	9925.100000
+9925.200000	119.400000	4962600	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	9925.200000
+10044.600000	0.133333	5022300	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	10044.600000
+10044.733333	121.700000	5022367	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	10044.733333
+10166.433333	0.233333	5083217	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	10166.433333
+10166.666667	119.366667	5083333	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	10166.666667
+10286.033333	0.166667	5143017	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	10286.033333
+10286.200000	119.300000	5143100	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	10286.200000
+10405.500000	0.233333	5202750	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	10405.500000
+10405.733333	119.400000	5202867	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	10405.733333
+10525.133333	0.133333	5262567	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	10525.133333
+10525.266667	120.600000	5262633	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	10525.266667
+10645.866667	0.166667	5322933	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	10645.866667
+10646.033333	119.366667	5323017	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	10646.033333
+10765.400000	0.133333	5382700	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	10765.400000
+10765.533333	119.300000	5382767	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	10765.533333
+10884.833333	0.266667	5442417	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	10884.833333
+10885.100000	119.366667	5442550	coarse_label	Inactive	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	10885.100000
+11004.466667	0.133333	5502233	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	11004.466667
+11004.600000	121.733333	5502300	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	11004.600000
+11126.333333	0.266667	5563167	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	11126.333333
+11126.600000	119.366667	5563300	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	11126.600000
+11245.966667	0.133333	5622983	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	11245.966667
+11246.100000	118.233333	5623050	coarse_label	Inactive	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	11246.100000
+11364.333333	0.133333	5682167	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	11364.333333
+11364.466667	120.600000	5682233	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	11364.466667
+11485.066667	0.100000	5742533	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	11485.066667
+11485.166667	126.500000	5742583	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	11485.166667
+11611.666667	0.233333	5805833	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	11611.666667
+11611.900000	113.400000	5805950	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	11611.900000
+11725.300000	0.100000	5862650	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	11725.300000
+11725.400000	125.300000	5862700	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	11725.400000
+11850.700000	0.233333	5925350	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	11850.700000
+11850.933333	113.300000	5925467	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	11850.933333
+11964.233333	0.166667	5982117	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	11964.233333
+11964.400000	120.533333	5982200	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	11964.400000
+12084.933333	0.166667	6042467	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	12084.933333
+12085.100000	119.233333	6042550	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	12085.100000
+12204.333333	0.266667	6102167	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	12204.333333
+12204.600000	120.533333	6102300	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	12204.600000
+12325.133333	0.133333	6162567	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	12325.133333
+12325.266667	124.100000	6162633	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	12325.266667
+12449.366667	0.233333	6224683	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	12449.366667
+12449.600000	115.700000	6224800	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	12449.600000
+12565.300000	0.133333	6282650	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	12565.300000
+12565.433333	119.300000	6282717	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	12565.433333
+12684.733333	0.233333	6342367	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	12684.733333
+12684.966667	119.266667	6342483	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	12684.966667
+12804.233333	0.200000	6402117	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	12804.233333
+12804.433333	121.633333	6402217	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	12804.433333
+12926.066667	0.266667	6463033	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	12926.066667
+12926.333333	118.000000	6463167	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	12926.333333
+13044.333333	120.933333	6522167	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	13044.333333
+13165.266667	119.200000	6582633	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	13165.266667
+13284.466667	0.300000	6642233	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	13284.466667
+13284.766667	120.566667	6642383	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	13284.766667
+13405.333333	0.100000	6702667	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	13405.333333
+13405.433333	119.266667	6702717	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	13405.433333
+13524.700000	0.266667	6762350	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	13524.700000
+13524.966667	119.300000	6762483	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	13524.966667
+13644.266667	0.133333	6822133	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	13644.266667
+13644.400000	120.466667	6822200	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	13644.400000
+13764.866667	0.266667	6882433	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	13764.866667
+13765.133333	119.266667	6882567	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	13765.133333
+13884.400000	0.200000	6942200	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	13884.400000
+13884.600000	120.433333	6942300	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	13884.600000
+14005.033333	0.266667	7002517	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	14005.033333
+14005.300000	119.166667	7002650	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	14005.300000
+14124.466667	0.266667	7062233	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	14124.466667
+14124.733333	120.433333	7062367	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	14124.733333
+14245.166667	0.266667	7122583	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	14245.166667
+14245.433333	119.333333	7122717	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	14245.433333
+14364.766667	0.133333	7182383	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	14364.766667
+14364.900000	119.333333	7182450	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	14364.900000
+14484.233333	0.166667	7242117	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	14484.233333
+14484.400000	120.533333	7242200	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	14484.400000
+14604.933333	0.133333	7302467	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	14604.933333
+14605.066667	120.566667	7302533	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	14605.066667
+14725.633333	0.166667	7362817	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	14725.633333
+14725.800000	119.200000	7362900	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	14725.800000
+14845.000000	0.300000	7422500	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	14845.000000
+14845.300000	120.566667	7422650	coarse_label	Inactive	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	14845.300000
+14965.866667	0.133333	7482933	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	14965.866667
+14966.000000	118.133333	7483000	coarse_label	Inactive	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	14966.000000
+15084.133333	0.233333	7542067	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	15084.133333
+15084.366667	120.566667	7542183	coarse_label	Inactive	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	15084.366667
+15204.933333	0.133333	7602467	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	15204.933333
+15205.066667	119.400000	7602533	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	15205.066667
+15324.466667	0.066667	7662233	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	15324.466667
+15324.533333	121.733333	7662267	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	15324.533333
+15446.266667	0.166667	7723133	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	15446.266667
+15446.433333	118.000000	7723217	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	15446.433333
+15564.433333	0.266667	7782217	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	15564.433333
+15564.700000	120.500000	7782350	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	15564.700000
+15685.200000	0.233333	7842600	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	15685.200000
+15685.433333	119.333333	7842717	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	15685.433333
+15804.766667	0.200000	7902383	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	15804.766667
+15804.966667	121.666667	7902483	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	15804.966667
+15926.633333	0.233333	7963317	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	15926.633333
+15926.866667	118.066667	7963433	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	15926.866667
+16044.933333	0.233333	8022467	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	16044.933333
+16045.166667	119.200000	8022583	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	16045.166667
+16164.366667	0.300000	8082183	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	16164.366667
+16164.666667	122.966667	8082333	coarse_label	Inactive	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	16164.666667
+16287.633333	0.166667	8143817	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	16287.633333
+16287.800000	119.366667	8143900	coarse_label	Inactive	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	16287.800000
+16407.166667	0.133333	8203583	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	16407.166667
+16407.300000	118.133333	8203650	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	16407.300000
+16525.433333	0.133333	8262717	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	16525.433333
+16525.566667	119.266667	8262783	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	16525.566667
+16644.833333	0.266667	8322417	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	16644.833333
+16645.100000	119.233333	8322550	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	16645.100000
+16764.333333	0.233333	8382167	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	16764.333333
+16764.566667	121.766667	8382283	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	16764.566667
+16886.333333	0.133333	8443167	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	16886.333333
+16886.466667	118.000000	8443233	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	16886.466667
+17004.466667	0.266667	8502233	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	17004.466667
+17004.733333	120.533333	8502367	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	17004.733333
+17125.266667	0.200000	8562633	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	17125.266667
+17125.466667	119.333333	8562733	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	17125.466667
+17244.800000	0.166667	8622400	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	17244.800000
+17244.966667	119.333333	8622483	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	17244.966667
+17364.300000	0.166667	8682150	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	17364.300000
+17364.466667	124.233333	8682233	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	17364.466667
+17488.700000	0.200000	8744350	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	17488.700000
+17488.900000	115.600000	8744450	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	17488.900000
+17604.500000	0.200000	8802250	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	17604.500000
+17604.700000	124.066667	8802350	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	17604.700000
+17728.766667	0.200000	8864383	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	17728.766667
+17728.966667	115.633333	8864483	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	17728.966667
+17844.600000	0.233333	8922300	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	17844.600000
+17844.833333	119.300000	8922417	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	17844.833333
+17964.133333	0.166667	8982067	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	17964.133333
+17964.300000	120.400000	8982150	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	17964.300000
+18084.700000	0.266667	9042350	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	18084.700000
+18084.966667	119.233333	9042483	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	18084.966667
+18204.200000	0.266667	9102100	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	18204.200000
+18204.466667	124.100000	9102233	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	18204.466667
+18328.566667	0.166667	9164283	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	18328.566667
+18328.733333	118.066667	9164367	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	18328.733333
+18446.800000	0.233333	9223400	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	18446.800000
+18447.033333	118.133333	9223517	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	18447.033333
+18565.166667	0.100000	9282583	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	18565.166667
+18565.266667	119.233333	9282633	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	18565.266667
+18684.500000	0.266667	9342250	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	18684.500000
+18684.766667	121.666667	9342383	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	18684.766667
+18806.433333	0.200000	9403217	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	18806.433333
+18806.633333	118.133333	9403317	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	18806.633333
+18924.766667	0.066667	9462383	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	18924.766667
+18924.833333	119.133333	9462417	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	18924.833333
+19043.966667	0.333333	9521983	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	19043.966667
+19044.300000	120.266667	9522150	coarse_label	Inactive	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	19044.300000
+19164.566667	0.300000	9582283	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	19164.566667
+19164.866667	120.300000	9582433	coarse_label	Inactive	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	19164.866667
+19285.166667	0.133333	9642583	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	19285.166667
+19285.300000	118.933333	9642650	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	19285.300000
+19404.233333	0.300000	9702117	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	19404.233333
+19404.533333	120.166667	9702267	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	19404.533333
+19524.700000	0.300000	9762350	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	19524.700000
+19525.000000	123.866667	9762500	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	19525.000000
+19648.866667	0.166667	9824433	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	19648.866667
+19649.033333	115.400000	9824517	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	19649.033333
+19764.433333	0.233333	9882217	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	19764.433333
+19764.666667	120.200000	9882333	coarse_label	Inactive	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	19764.666667
+19884.866667	0.233333	9942433	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	19884.866667
+19885.100000	119.033333	9942550	coarse_label	Inactive	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	19885.100000
+20004.133333	0.133333	10002067	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	20004.133333
+20004.266667	120.100000	10002133	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	20004.266667
+20124.366667	0.233333	10062183	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	20124.366667
+20124.600000	123.833333	10062300	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	20124.600000
+20248.433333	0.133333	10124217	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	20248.433333
+20248.566667	123.766667	10124283	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	20248.566667
+20372.333333	0.200000	10186167	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	20372.333333
+20372.533333	111.566667	10186267	coarse_label	Inactive	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	20372.533333
+20484.100000	0.266667	10242050	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	20484.100000
+20484.366667	119.866667	10242183	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	20484.366667
+20604.233333	0.133333	10302117	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	20604.233333
+20604.366667	120.066667	10302183	coarse_label	Blocklist (Clinical procedure)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	20604.366667
+20724.433333	0.133333	10362217	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	20724.433333
+20724.566667	120.533333	10362283	coarse_label	Blocklist (Clinical procedure)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	20724.566667
+20845.100000	0.266667	10422550	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	20845.100000
+20845.366667	119.733333	10422683	coarse_label	Inactive	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	20845.366667
+20965.100000	0.100000	10482550	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	20965.100000
+20965.200000	119.533333	10482600	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	20965.200000
+21084.733333	0.266667	10542367	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	21084.733333
+21085.000000	128.033333	10542500	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	21085.000000
+21213.033333	0.133333	10606517	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	21213.033333
+21213.166667	111.300000	10606583	coarse_label	Inactive	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	21213.166667
+21324.466667	0.166667	10662233	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	21324.466667
+21324.633333	119.633333	10662317	coarse_label	Inactive	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	21324.633333
+21444.266667	0.266667	10722133	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	21444.266667
+21444.533333	119.700000	10722267	coarse_label	Inactive	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	21444.533333
+21564.233333	0.300000	10782117	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	21564.233333
+21564.533333	119.766667	10782267	coarse_label	Inactive	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	21564.533333
+21684.300000	0.166667	10842150	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	21684.300000
+21684.466667	119.800000	10842233	coarse_label	Inactive	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	21684.466667
+21804.266667	0.133333	10902133	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	21804.266667
+21804.400000	119.800000	10902200	coarse_label	Inactive	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	21804.400000
+21924.200000	0.133333	10962100	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	21924.200000
+21924.333333	119.833333	10962167	coarse_label	Inactive	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	21924.333333
+22044.166667	0.166667	11022083	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	22044.166667
+22044.333333	132.966667	11022167	coarse_label	Inactive	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	22044.333333
+22177.300000	0.166667	11088650	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	22177.300000
+22177.466667	106.566667	11088733	coarse_label	Inactive	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	22177.466667
+22284.033333	0.200000	11142017	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	22284.033333
+22284.233333	121.000000	11142117	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	22284.233333
+22405.233333	0.100000	11202617	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	22405.233333
+22405.333333	119.766667	11202667	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	22405.333333
+22525.100000	0.633333	11262550	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	22525.100000
+22525.733333	121.000000	11262867	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	22525.733333
+22646.733333	0.133333	11323367	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	22646.733333
+22646.866667	118.600000	11323433	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	22646.866667
+22765.466667	0.300000	11382733	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	22765.466667
+22765.766667	121.633333	11382883	coarse_label	Blocklist (Private time)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	22765.766667
+22887.400000	0.100000	11443700	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	22887.400000
+22887.500000	117.300000	11443750	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	22887.500000
+23004.800000	121.033333	11502400	coarse_label	Inactive	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	23004.800000
+23125.833333	0.266667	11562917	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	23125.833333
+23126.100000	118.733333	11563050	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	23126.100000
+23244.833333	0.200000	11622417	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	23244.833333
+23245.033333	119.966667	11622517	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	23245.033333
+23365.000000	0.266667	11682500	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	23365.000000
+23365.266667	119.933333	11682633	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	23365.266667
+23485.200000	0.166667	11742600	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	23485.200000
+23485.366667	118.800000	11742683	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	23485.366667
+23604.166667	0.133333	11802083	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	23604.166667
+23604.300000	119.833333	11802150	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	23604.300000
+23724.133333	0.266667	11862067	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	23724.133333
+23724.400000	120.000000	11862200	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	23724.400000
+23844.400000	0.133333	11922200	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	23844.400000
+23844.533333	119.933333	11922267	coarse_label	Inactive	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	23844.533333
+23964.466667	0.200000	11982233	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	23964.466667
+23964.666667	120.000000	11982333	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	23964.666667
+24084.666667	0.100000	12042333	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	24084.666667
+24084.766667	119.866667	12042383	coarse_label	Inactive	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	24084.766667
+24204.633333	0.300000	12102317	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	24204.633333
+24204.933333	119.966667	12102467	coarse_label	Inactive	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	24204.933333
+24324.900000	0.133333	12162450	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	24324.900000
+24325.033333	120.033333	12162517	coarse_label	Inactive	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	24325.033333
+24445.066667	0.166667	12222533	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	24445.066667
+24445.233333	119.000000	12222617	coarse_label	Blocklist (Camera move/zoom)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	24445.233333
+24564.233333	0.133333	12282117	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	24564.233333
+24564.366667	120.200000	12282183	coarse_label	Blocklist (Clinical procedure)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	24564.366667
+24630.120000	6.476000	12315060	nan_segment	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+24684.566667	0.266667	12342283	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	24684.566667
+24684.833333	119.900000	12342417	coarse_label	Blocklist (Clinical procedure)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	24684.833333
+24804.733333	0.133333	12402367	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	24804.733333
+24804.866667	119.100000	12402433	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	24804.866667
+24923.966667	0.266667	12461983	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	24923.966667
+24924.233333	136.800000	12462117	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	24924.233333
+25061.033333	0.133333	12530517	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	25061.033333
+25061.166667	103.500000	12530583	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	25061.166667
+25164.666667	0.033333	12582333	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	25164.666667
+25164.700000	127.366667	12582350	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	25164.700000
+25292.066667	0.300000	12646033	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	25292.066667
+25292.366667	112.733333	12646183	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	25292.366667
+25405.100000	0.100000	12702550	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	25405.100000
+25405.200000	119.633333	12702600	coarse_label	Blocklist (Camera move/zoom)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	25405.200000
+25524.833333	0.200000	12762417	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	25524.833333
+25525.033333	120.500000	12762517	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	25525.033333
+25645.533333	0.166667	12822767	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	25645.533333
+25645.700000	118.733333	12822850	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	25645.700000
+25764.433333	0.266667	12882217	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	25764.433333
+25764.700000	120.100000	12882350	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	25764.700000
+25884.800000	0.133333	12942400	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	25884.800000
+25884.933333	119.966667	12942467	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	25884.933333
+26004.900000	0.266667	13002450	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	26004.900000
+26005.166667	119.766667	13002583	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	26005.166667
+26124.933333	0.066667	13062467	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	26124.933333
+26125.000000	122.166667	13062500	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	26125.000000
+26247.166667	0.233333	13123583	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	26247.166667
+26247.400000	117.733333	13123700	coarse_label	Inactive	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	26247.400000
+26365.133333	0.033333	13182567	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	26365.133333
+26365.166667	120.666667	13182583	coarse_label	Inactive	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	26365.166667
+26485.833333	0.133333	13242917	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	26485.833333
+26485.966667	118.500000	13242983	coarse_label	Other activity	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	26485.966667
+26575.444000	1.533333	13287722	reach_onset	n/a	r_wrist	79.316307	-143.192544	35.135475	0.259504	0.454292	1.433333	1.000000	26575.444000	26575.444000
+26599.210000	1.133333	13299605	reach_onset	n/a	r_wrist	124.665310	-148.248218	54.537091	0.267736	0.003956	0.000000	0.000000	26599.210000	26599.211000
+26604.466667	0.200000	13302233	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	26604.466667
+26604.666667	120.100000	13302333	coarse_label	Other activity	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	26604.666667
+26634.764000	1.366667	13317382	reach_onset	n/a	r_wrist	108.689977	36.497536	74.979386	0.243318	0.257151	1.366667	1.000000	26634.764000	26634.764000
+26645.764000	2.266667	13322882	reach_onset	n/a	r_wrist	36.698682	137.070980	21.180875	0.229169	0.589996	0.700000	1.000000	26645.764000	26645.764000
+26724.766667	0.266667	13362383	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	26724.766667
+26725.033333	119.833333	13362517	coarse_label	Inactive	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	26725.033333
+26844.866667	0.066667	13422433	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	26844.866667
+26844.933333	120.433333	13422467	coarse_label	Inactive	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	26844.933333
+26965.366667	0.033333	13482683	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	26965.366667
+26965.400000	119.033333	13482700	coarse_label	Inactive	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	26965.400000
+27084.433333	0.100000	13542217	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	27084.433333
+27084.533333	120.666667	13542267	coarse_label	Inactive	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	27084.533333
+27205.200000	0.133333	13602600	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	27205.200000
+27205.333333	119.033333	13602667	coarse_label	Other activity	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	27205.333333
+27313.320000	0.800000	13656660	reach_onset	n/a	r_wrist	19.549139	166.098704	44.176700	0.321422	0.387987	0.800000	1.000000	27313.320000	27313.320000
+27320.052000	1.633333	13660026	reach_onset	n/a	r_wrist	64.784584	-149.304458	10.305042	0.316631	0.153305	0.733333	1.000000	27320.052000	27320.053000
+27324.366667	0.066667	13662183	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	27324.366667
+27324.433333	119.766667	13662217	coarse_label	Other activity	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	27324.433333
+27376.872000	1.066667	13688436	reach_onset	n/a	r_wrist	18.469583	-123.383989	14.590833	0.322517	0.107503	0.200000	1.000000	27376.872000	27376.872000
+27444.200000	0.166667	13722100	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	27444.200000
+27444.366667	121.300000	13722183	coarse_label	Other activity	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	27444.366667
+27476.026000	1.433333	13738013	reach_onset	n/a	r_wrist	87.291115	160.522556	41.818869	0.434747	0.883628	1.433333	1.000000	27476.026000	27476.026000
+27565.666667	0.066667	13782833	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	27565.666667
+27565.733333	118.400000	13782867	coarse_label	Other activity	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	27565.733333
+27610.838000	2.200000	13805419	reach_onset	n/a	r_wrist	169.002361	-98.085105	101.516802	0.245962	0.023677	0.200000	1.000000	27610.838000	27610.837000
+27621.404000	2.233333	13810702	reach_onset	n/a	r_wrist	163.315345	80.791870	95.776477	0.254617	0.015860	0.433333	1.000000	27621.404000	27621.404000
+27684.133333	0.200000	13842067	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	27684.133333
+27684.333333	120.266667	13842167	coarse_label	Other activity	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	27684.333333
+27804.600000	0.066667	13902300	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	27804.600000
+27804.666667	119.866667	13902333	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	27804.666667
+27824.442000	1.933333	13912221	reach_onset	n/a	r_wrist	136.723354	-92.946901	30.568796	0.261406	0.135550	1.166667	1.000000	27824.442000	27824.442000
+27891.374000	1.133333	13945687	reach_onset	n/a	r_wrist	36.544922	54.384193	52.861618	0.238869	0.011594	0.000000	0.000000	27891.374000	27891.375000
+27915.974000	1.133333	13957987	reach_onset	n/a	r_wrist	29.706440	95.879007	27.529685	0.261493	0.069830	0.000000	0.000000	27915.974000	27915.975000
+27924.533333	0.200000	13962267	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	27924.533333
+27924.733333	119.600000	13962367	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	27924.733333
+28044.333333	0.066667	14022167	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	28044.333333
+28044.400000	119.966667	14022200	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	28044.400000
+28164.366667	0.066667	14082183	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	28164.366667
+28164.433333	119.700000	14082217	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	28164.433333
+28284.133333	0.100000	14142067	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	28284.133333
+28284.233333	120.366667	14142117	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	28284.233333
+28404.600000	0.033333	14202300	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	28404.600000
+28404.633333	119.566667	14202317	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	28404.633333
+28410.298000	1.100000	14205149	reach_onset	n/a	r_wrist	156.210204	-96.143653	191.674093	0.303000	0.004527	0.000000	0.000000	28410.298000	28410.299000
+28431.732000	1.366667	14215866	reach_onset	n/a	r_wrist	43.059889	42.973196	39.582855	0.282055	0.019944	0.000000	0.000000	28431.732000	28431.732000
+28446.166000	0.900000	14223083	reach_onset	n/a	r_wrist	29.230412	-9.171109	39.697341	0.287833	0.017201	0.000000	0.000000	28446.166000	28446.165000
+28511.664000	1.733333	14255832	reach_onset	n/a	r_wrist	23.223320	22.674567	10.906676	0.342058	0.029325	0.000000	0.000000	28511.664000	28511.665000
+28524.200000	0.066667	14262100	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	28524.200000
+28524.266667	120.900000	14262133	coarse_label	Other activity	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	28524.266667
+28645.166667	0.066667	14322583	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	28645.166667
+28645.233333	120.933333	14322617	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	28645.233333
+28766.166667	0.033333	14383083	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	28766.166667
+28766.200000	117.833333	14383100	coarse_label	Inactive	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	28766.200000
+28884.033333	0.100000	14442017	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	28884.033333
+28884.133333	77.133333	14442067	coarse_label	Inactive	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	28884.133333
+28959.370000	29.398000	14479685	nan_segment	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+28961.266667	25.133333	14480633	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	28961.266667
+28986.400000	32.000000	14493200	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	28986.400000
+29016.770000	120.100000	14508385	nan_segment	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+29018.400000	74.900000	14509200	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	29018.400000
+29093.300000	1.566667	14546650	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	29093.300000
+29094.866667	39.666667	14547433	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	29094.866667
+29134.533333	26.566667	14567267	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	29134.533333
+29159.274000	31.596000	14579637	nan_segment	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+29161.100000	27.333333	14580550	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	29161.100000
+29188.433333	121.000000	14594217	coarse_label	Talk	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	29188.433333
+29241.410000	11.218000	14620705	nan_segment	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+29253.384000	4.646000	14626692	nan_segment	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+29309.433333	0.200000	14654717	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	29309.433333
+29309.633333	118.566667	14654817	coarse_label	Inactive	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	29309.633333
+29428.200000	0.166667	14714100	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	29428.200000
+29428.366667	120.566667	14714183	coarse_label	Inactive	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	29428.366667
+29548.933333	0.066667	14774467	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	29548.933333
+29549.000000	119.866667	14774500	coarse_label	Other activity	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	29549.000000
+29571.462000	1.166667	14785731	reach_onset	n/a	r_wrist	42.749114	-17.340727	15.944636	0.368310	0.101791	0.000000	0.000000	29571.462000	29571.463000
+29582.896000	1.000000	14791448	reach_onset	n/a	r_wrist	87.680163	-139.930882	82.455079	0.351615	0.023575	0.000000	0.000000	29582.896000	29582.896000
+29600.028000	1.166667	14800014	reach_onset	n/a	r_wrist	53.331322	97.624117	32.806580	0.342362	0.012776	0.000000	0.000000	29600.028000	29600.029000
+29634.996000	1.500000	14817498	reach_onset	n/a	r_wrist	20.489833	-140.205696	11.942164	0.320418	0.400450	0.833333	1.000000	29634.996000	29634.996000
+29643.162000	1.200000	14821581	reach_onset	n/a	r_wrist	89.895006	48.356343	34.116946	0.307731	0.084807	0.633333	1.000000	29643.162000	29643.163000
+29668.866667	0.100000	14834433	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	29668.866667
+29668.966667	119.633333	14834483	coarse_label	Talk, Other activity	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	29668.966667
+29706.800000	1.300000	14853400	reach_onset	n/a	r_wrist	18.361919	-144.061686	23.932173	0.307074	0.378595	0.866667	1.000000	29706.800000	29706.799000
+29788.600000	0.133333	14894300	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	29788.600000
+29788.733333	119.966667	14894367	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	29788.733333
+29908.700000	0.033333	14954350	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	29908.700000
+29908.733333	120.100000	14954367	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	29908.733333
+30028.833333	0.133333	15014417	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	30028.833333
+30028.966667	120.000000	15014483	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	30028.966667
+30148.966667	0.066667	15074483	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	30148.966667
+30149.033333	119.033333	15074517	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	30149.033333
+30161.626000	1.633333	15080813	reach_onset	n/a	r_wrist	143.186964	-104.431752	15.909105	0.459292	0.017834	0.133333	1.000000	30161.626000	30161.626000
+30183.492000	2.766667	15091746	reach_onset	n/a	r_wrist	110.116749	78.600536	25.436256	0.450838	0.764561	1.900000	1.000000	30183.492000	30183.493000
+30268.066667	0.233333	15134033	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	30268.066667
+30268.300000	121.033333	15134150	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	30268.300000
+30389.333333	0.200000	15194667	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	30389.333333
+30389.533333	119.633333	15194767	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	30389.533333
+30509.166667	0.033333	15254583	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	30509.166667
+30509.200000	122.033333	15254600	coarse_label	Inactive	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	30509.200000
+30631.233333	0.100000	15315617	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	30631.233333
+30631.333333	117.400000	15315667	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	30631.333333
+30748.733333	0.133333	15374367	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	30748.733333
+30748.866667	119.866667	15374433	coarse_label	Talk	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	30748.866667
+30800.524000	1.366667	15400262	reach_onset	n/a	r_wrist	110.262840	-67.074647	63.070453	0.364202	0.433844	0.000000	1.000000	30800.524000	30800.525000
+30849.290000	1.300000	15424645	reach_onset	n/a	r_wrist	66.728438	-172.646992	20.984233	0.340272	0.117087	0.333333	1.000000	30849.290000	30849.291000
+30868.733333	0.133333	15434367	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	30868.733333
+30868.866667	120.100000	15434433	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	30868.866667
+30888.776000	1.200000	15444388	reach_onset	n/a	r_wrist	30.192115	83.181965	22.879631	0.325268	0.043270	0.133333	1.000000	30888.776000	30888.776000
+30927.076000	1.100000	15463538	reach_onset	n/a	r_wrist	12.978883	101.791323	3.489211	0.297338	0.348677	0.566667	1.000000	30927.076000	30927.076000
+30988.966667	0.133333	15494483	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	30988.966667
+30989.100000	121.666667	15494550	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	30989.100000
+30994.930000	1.366667	15497465	reach_onset	n/a	r_wrist	28.879007	-115.013132	29.422104	0.266047	0.103068	0.000000	0.000000	30994.930000	30994.930000
+31110.766667	0.133333	15555383	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	31110.766667
+31110.900000	117.600000	15555450	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	31110.900000
+31162.376000	1.600000	15581188	reach_onset	n/a	r_wrist	43.547029	56.215446	29.681012	0.245457	0.166603	0.733333	1.000000	31162.376000	31162.376000
+31215.708000	1.233333	15607854	reach_onset	n/a	r_wrist	119.998597	86.821558	37.636314	0.263713	0.783520	0.666667	1.000000	31215.708000	31215.709000
+31228.500000	0.166667	15614250	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	31228.500000
+31228.666667	119.400000	15614333	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	31228.666667
+31282.828000	1.066667	15641414	reach_onset	n/a	r_wrist	24.898747	-84.958761	8.216143	0.317069	0.153701	0.233333	1.000000	31282.828000	31282.828000
+31348.066667	0.133333	15674033	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	31348.066667
+31348.200000	120.166667	15674100	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	31348.200000
+31468.366667	0.066667	15734183	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	31468.366667
+31468.433333	120.366667	15734217	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	31468.433333
+31588.800000	0.133333	15794400	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	31588.800000
+31588.933333	120.166667	15794467	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	31588.933333
+31594.820000	0.766667	15797410	reach_onset	n/a	r_wrist	98.989051	-104.226146	117.242276	0.361161	0.004934	0.000000	0.000000	31594.820000	31594.821000
+31625.788000	2.133333	15812894	reach_onset	n/a	r_wrist	76.643613	59.483784	5.966031	0.406864	0.020181	0.000000	0.000000	31625.788000	31625.788000
+31638.288000	1.300000	15819144	reach_onset	n/a	r_wrist	144.874302	-97.135924	74.154932	0.424631	0.108510	0.800000	1.000000	31638.288000	31638.288000
+31709.100000	0.133333	15854550	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	31709.100000
+31709.233333	119.433333	15854617	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	31709.233333
+31789.740000	0.600000	15894870	reach_onset	n/a	r_wrist	157.157708	-93.390395	224.460997	0.408517	0.004728	0.000000	0.000000	31789.740000	31789.741000
+31828.666667	0.033333	15914333	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	31828.666667
+31828.700000	122.200000	15914350	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	31828.700000
+31950.900000	0.200000	15975450	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	31950.900000
+31951.100000	117.100000	15975550	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	31951.100000
+32068.200000	0.200000	16034100	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	32068.200000
+32068.400000	120.200000	16034200	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	32068.400000
+32176.578000	1.033333	16088289	reach_onset	n/a	r_wrist	49.519700	-133.221610	37.812918	0.212359	0.719921	0.500000	1.000000	32176.578000	32176.578000
+32188.600000	0.033333	16094300	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	32188.600000
+32188.633333	120.566667	16094317	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	32188.633333
+32208.364000	1.000000	16104182	reach_onset	n/a	r_wrist	31.407584	68.444605	24.286051	0.194116	0.021718	0.000000	0.000000	32208.364000	32208.364000
+32220.130000	1.766667	16110065	reach_onset	n/a	r_wrist	56.099662	69.228700	19.731525	0.186328	0.037401	0.000000	0.000000	32220.130000	32220.131000
+32248.730000	2.266667	16124365	reach_onset	n/a	r_wrist	81.671313	40.812181	50.871238	0.186059	0.029869	0.000000	0.000000	32248.730000	32248.731000
+32309.200000	0.233333	16154600	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	32309.200000
+32309.433333	119.000000	16154717	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	32309.433333
+32326.218000	0.833333	16163109	reach_onset	n/a	r_wrist	114.033489	-58.930472	25.670199	0.223583	0.031646	0.533333	1.000000	32326.218000	32326.219000
+32331.152000	0.500000	16165576	reach_onset	n/a	r_wrist	14.780246	139.861637	46.766879	0.231032	0.932649	0.066667	1.000000	32331.152000	32331.152000
+32334.786000	1.200000	16167393	reach_onset	n/a	r_wrist	104.990582	123.711069	51.201528	0.237096	0.718987	0.200000	1.000000	32334.786000	32334.786000
+32348.752000	2.666667	16174376	reach_onset	n/a	r_wrist	195.319285	-30.066865	117.874669	0.260153	0.158361	1.366667	1.000000	32348.752000	32348.752000
+32428.433333	0.133333	16214217	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	32428.433333
+32428.566667	121.633333	16214283	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	32428.566667
+32505.494000	0.500000	16252747	reach_onset	n/a	r_wrist	19.274415	158.805079	51.835805	0.398176	0.191168	0.000000	1.000000	32505.494000	32505.495000
+32532.094000	1.100000	16266047	reach_onset	n/a	r_wrist	29.162903	77.783495	17.232907	0.383207	0.505683	1.100000	1.000000	32532.094000	32532.095000
+32550.200000	0.133333	16275100	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	32550.200000
+32550.333333	117.966667	16275167	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	32550.333333
+32580.084000	1.533333	16290042	reach_onset	n/a	r_wrist	128.656176	-100.838692	33.710022	0.330020	0.078644	0.466667	1.000000	32580.084000	32580.084000
+32594.284000	1.100000	16297142	reach_onset	n/a	r_wrist	12.752951	53.964444	13.868888	0.305263	0.705869	1.100000	1.000000	32594.284000	32594.284000
+32611.850000	0.566667	16305925	reach_onset	n/a	r_wrist	9.225821	-145.463375	16.774726	0.286859	0.017934	0.000000	0.000000	32611.850000	32611.850000
+32668.300000	0.100000	16334150	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	32668.300000
+32668.400000	119.533333	16334200	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	32668.400000
+32784.766000	1.500000	16392383	reach_onset	n/a	r_wrist	116.756964	118.697579	60.169863	0.198297	0.500544	1.500000	1.000000	32784.766000	32784.767000
+32787.933333	0.233333	16393967	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	32787.933333
+32788.166667	122.666667	16394083	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	32788.166667
+32910.833333	0.166667	16455417	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	32910.833333
+32911.000000	117.566667	16455500	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	32911.000000
+32957.566000	1.066667	16478783	reach_onset	n/a	r_wrist	19.507758	-83.891596	39.494981	0.311518	0.219467	0.300000	1.000000	32957.566000	32957.566000
+33028.566667	0.033333	16514283	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	33028.566667
+33028.600000	120.166667	16514300	coarse_label	Inactive	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	33028.600000
+33148.766667	0.200000	16574383	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	33148.766667
+33148.966667	122.233333	16574483	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	33148.966667
+33271.200000	0.133333	16635600	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	33271.200000
+33271.333333	236.666667	16635667	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	33271.333333
+33508.000000	0.133333	16754000	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	33508.000000
+33508.133333	120.200000	16754067	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	33508.133333
+33628.333333	0.033333	16814167	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	33628.333333
+33628.366667	121.300000	16814183	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	33628.366667
+33749.666667	0.100000	16874833	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	33749.666667
+33749.766667	119.466667	16874883	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	33749.766667
+33869.233333	0.066667	16934617	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	33869.233333
+33869.300000	120.633333	16934650	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	33869.300000
+33989.933333	0.100000	16994967	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	33989.933333
+33990.033333	118.800000	16995017	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	33990.033333
+34108.833333	0.166667	17054417	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	34108.833333
+34109.000000	121.666667	17054500	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	34109.000000
+34230.666667	0.133333	17115333	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	34230.666667
+34230.800000	117.366667	17115400	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	34230.800000
+34348.166667	0.100000	17174083	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	34348.166667
+34348.266667	122.266667	17174133	coarse_label	Inactive	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	34348.266667
+34470.533333	0.166667	17235267	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	34470.533333
+34470.700000	117.733333	17235350	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	34470.700000
+34588.433333	0.166667	17294217	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	34588.433333
+34588.600000	119.700000	17294300	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	34588.600000
+34708.300000	0.133333	17354150	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	34708.300000
+34708.433333	120.966667	17354217	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	34708.433333
+34829.400000	0.066667	17414700	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	34829.400000
+34829.466667	118.833333	17414733	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	34829.466667
+34948.300000	0.166667	17474150	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	34948.300000
+34948.466667	120.166667	17474233	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	34948.466667
+35068.633333	0.100000	17534317	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	35068.633333
+35068.733333	121.133333	17534367	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	35068.733333
+35189.866667	0.266667	17594933	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	35189.866667
+35190.133333	118.900000	17595067	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	35190.133333
+35309.033333	0.033333	17654517	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	35309.033333
+35309.066667	119.133333	17654533	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	35309.066667
+35428.200000	0.200000	17714100	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	35428.200000
+35428.400000	121.633333	17714200	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	35428.400000
+35550.033333	0.066667	17775017	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	35550.033333
+35550.100000	118.866667	17775050	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	35550.100000
+35668.966667	0.100000	17834483	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	35668.966667
+35669.066667	119.133333	17834533	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	35669.066667
+35788.200000	0.066667	17894100	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	35788.200000
+35788.266667	120.166667	17894133	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	35788.266667
+35908.433333	0.066667	17954217	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	35908.433333
+35908.500000	119.966667	17954250	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	35908.500000
+36028.466667	0.166667	18014233	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	36028.466667
+36028.633333	119.633333	18014317	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	36028.633333
+36148.266667	0.033333	18074133	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	36148.266667
+36148.300000	124.500000	18074150	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	36148.300000
+36272.800000	0.166667	18136400	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	36272.800000
+36272.966667	117.033333	18136483	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	36272.966667
+36390.000000	0.133333	18195000	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	36390.000000
+36390.133333	118.233333	18195067	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	36390.133333
+36508.366667	0.100000	18254183	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	36508.366667
+36508.466667	121.100000	18254233	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	36508.466667
+36629.566667	0.200000	18314783	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	36629.566667
+36629.766667	125.666667	18314883	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	36629.766667
+36755.433333	0.066667	18377717	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	36755.433333
+36755.500000	116.700000	18377750	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	36755.500000
+36872.200000	0.233333	18436100	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	36872.200000
+36872.433333	116.566667	18436217	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	36872.433333
+36989.000000	0.033333	18494500	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	36989.000000
+36989.033333	119.100000	18494517	coarse_label	Inactive	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	36989.033333
+37108.133333	0.100000	18554067	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	37108.133333
+37108.233333	120.100000	18554117	coarse_label	Inactive	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	37108.233333
+37228.333333	0.066667	18614167	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	37228.333333
+37228.400000	120.200000	18614200	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	37228.400000
+37348.600000	0.100000	18674300	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	37348.600000
+37348.700000	120.233333	18674350	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	37348.700000
+37468.933333	0.066667	18734467	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	37468.933333
+37469.000000	119.666667	18734500	coarse_label	Inactive	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	37469.000000
+37588.666667	0.133333	18794333	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	37588.666667
+37588.800000	119.166667	18794400	coarse_label	Inactive	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	37588.800000
+37707.966667	0.100000	18853983	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	37707.966667
+37708.066667	120.600000	18854033	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	37708.066667
+37828.666667	0.166667	18914333	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	37828.666667
+37828.833333	119.800000	18914417	coarse_label	Inactive	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	37828.833333
+37948.633333	0.166667	18974317	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	37948.633333
+37948.800000	119.933333	18974400	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	37948.800000
+38068.733333	0.100000	19034367	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	38068.733333
+38068.833333	119.300000	19034417	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	38068.833333
+38188.133333	0.266667	19094067	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	38188.133333
+38188.400000	120.633333	19094200	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	38188.400000
+38309.033333	0.100000	19154517	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	38309.033333
+38309.133333	119.400000	19154567	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	38309.133333
+38428.533333	0.233333	19214267	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	38428.533333
+38428.766667	119.700000	19214383	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	38428.766667
+38548.466667	0.133333	19274233	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	38548.466667
+38548.600000	121.766667	19274300	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	38548.600000
+38670.366667	0.133333	19335183	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	38670.366667
+38670.500000	117.866667	19335250	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	38670.500000
+38788.366667	0.133333	19394183	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	38788.366667
+38788.500000	120.166667	19394250	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	38788.500000
+38908.666667	0.200000	19454333	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	38908.666667
+38908.866667	119.233333	19454433	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	38908.866667
+39028.100000	0.033333	19514050	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	39028.100000
+39028.133333	120.233333	19514067	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	39028.133333
+39148.366667	0.166667	19574183	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	39148.366667
+39148.533333	123.866667	19574267	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	39148.533333
+39272.400000	0.066667	19636200	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	39272.400000
+39272.466667	115.833333	19636233	coarse_label	Inactive	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	39272.466667
+39388.300000	0.233333	19694150	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	39388.300000
+39388.533333	119.800000	19694267	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	39388.533333
+39508.333333	0.233333	19754167	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	39508.333333
+39508.566667	122.033333	19754283	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	39508.566667
+39630.600000	0.133333	19815300	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	39630.600000
+39630.733333	117.800000	19815367	coarse_label	Inactive	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	39630.733333
+39748.533333	0.200000	19874267	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	39748.533333
+39748.733333	120.000000	19874367	coarse_label	Inactive	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	39748.733333
+39868.733333	0.266667	19934367	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	39868.733333
+39869.000000	119.000000	19934500	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	39869.000000
+39988.000000	0.066667	19994000	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	39988.000000
+39988.066667	120.300000	19994033	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	39988.066667
+40108.366667	0.166667	20054183	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	40108.366667
+40108.533333	120.300000	20054267	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	40108.533333
+40228.833333	0.033333	20114417	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	40228.833333
+40228.866667	119.933333	20114433	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	40228.866667
+40348.800000	0.100000	20174400	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	40348.800000
+40348.900000	119.133333	20174450	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	40348.900000
+40468.033333	0.066667	20234017	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	40468.033333
+40468.100000	121.733333	20234050	coarse_label	Inactive	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	40468.100000
+40589.833333	118.466667	20294917	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	40589.833333
+40708.300000	0.066667	20354150	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	40708.300000
+40708.366667	123.466667	20354183	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	40708.366667
+40831.833333	0.066667	20415917	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	40831.833333
+40831.900000	116.233333	20415950	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	40831.900000
+40948.133333	0.100000	20474067	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	40948.133333
+40948.233333	120.333333	20474117	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	40948.233333
+41068.566667	0.233333	20534283	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	41068.566667
+41068.800000	119.600000	20534400	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	41068.800000
+41188.400000	0.066667	20594200	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	41188.400000
+41188.466667	120.366667	20594233	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	41188.466667
+41308.833333	0.066667	20654417	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	41308.833333
+41308.900000	119.366667	20654450	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	41308.900000
+41428.266667	0.100000	20714133	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	41428.266667
+41428.366667	120.133333	20714183	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	41428.366667
+41548.500000	0.166667	20774250	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	41548.500000
+41548.666667	121.366667	20774333	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	41548.666667
+41670.033333	0.100000	20835017	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	41670.033333
+41670.133333	118.133333	20835067	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	41670.133333
+41788.266667	0.033333	20894133	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	41788.266667
+41788.300000	119.833333	20894150	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	41788.300000
+41908.133333	0.066667	20954067	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	41908.133333
+41908.200000	120.100000	20954100	coarse_label	Blocklist (Camera move/zoom)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	41908.200000
+42028.300000	0.133333	21014150	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	42028.300000
+42028.433333	119.666667	21014217	coarse_label	Blocklist (Camera move/zoom)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	42028.433333
+42148.100000	0.166667	21074050	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	42148.100000
+42148.266667	119.900000	21074133	coarse_label	Other activity	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	42148.266667
+42173.676000	1.200000	21086838	reach_onset	n/a	r_wrist	108.990326	-88.569121	33.450796	0.607341	0.104495	0.433333	1.000000	42173.676000	42173.675000
+42221.408000	1.000000	21110704	reach_onset	n/a	r_wrist	26.164913	-132.854374	45.747415	0.636525	0.138142	0.166667	1.000000	42221.408000	42221.409000
+42268.166667	0.100000	21134083	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	42268.166667
+42268.266667	120.000000	21134133	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	42268.266667
+42388.266667	0.166667	21194133	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	42388.266667
+42388.433333	119.866667	21194217	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	42388.433333
+42493.106000	1.933333	21246553	reach_onset	n/a	r_wrist	119.868822	-91.988504	92.663908	0.468942	0.012842	0.000000	0.000000	42493.106000	42493.106000
+42508.300000	0.066667	21254150	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	42508.300000
+42508.366667	119.666667	21254183	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	42508.366667
+42544.558000	1.166667	21272279	reach_onset	n/a	r_wrist	65.469672	41.111953	86.457739	0.451276	0.027500	0.166667	1.000000	42544.558000	42544.558000
+42606.024000	1.600000	21303012	reach_onset	n/a	r_wrist	116.592671	-93.095766	115.590556	0.416142	0.267620	0.733333	1.000000	42606.024000	42606.025000
+42628.033333	0.300000	21314017	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	42628.033333
+42628.333333	122.233333	21314167	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	42628.333333
+42745.178000	1.333333	21372589	reach_onset	n/a	r_wrist	24.494164	-124.906413	19.487957	0.677653	0.007337	0.000000	0.000000	42745.178000	42745.178000
+42750.566667	0.066667	21375283	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	42750.566667
+42750.633333	118.333333	21375317	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	42750.633333
+42770.600000	1.433333	21385300	reach_onset	n/a	r_wrist	23.617788	-125.935141	13.945647	0.678603	0.029478	0.000000	0.000000	42770.600000	42770.600000
+42816.600000	0.666667	21408300	reach_onset	n/a	r_wrist	41.093105	83.746252	44.627644	0.634861	0.198470	0.366667	1.000000	42816.600000	42816.600000
+42868.966667	0.066667	21434483	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	42868.966667
+42869.033333	119.833333	21434517	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	42869.033333
+42900.552000	2.500000	21450276	reach_onset	n/a	r_wrist	83.211592	31.211711	17.981283	0.643987	0.210297	2.166667	1.000000	42900.552000	42900.553000
+42988.866667	0.066667	21494433	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	42988.866667
+42988.933333	119.800000	21494467	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	42988.933333
+43082.172000	1.300000	21541086	reach_onset	n/a	r_wrist	21.998096	-140.939612	15.772597	0.655592	0.063126	0.000000	0.000000	43082.172000	43082.173000
+43101.638000	1.200000	21550819	reach_onset	n/a	r_wrist	16.221559	-129.604667	10.057979	0.610006	0.084722	0.000000	0.000000	43101.638000	43101.639000
+43108.733333	0.033333	21554367	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	43108.733333
+43108.766667	119.933333	21554383	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	43108.766667
+43228.700000	0.100000	21614350	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	43228.700000
+43228.800000	120.100000	21614400	coarse_label	Inactive	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	43228.800000
+43348.900000	0.100000	21674450	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	43348.900000
+43349.000000	119.200000	21674500	coarse_label	Inactive	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	43349.000000
+43468.200000	0.233333	21734100	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	43468.200000
+43468.433333	119.900000	21734217	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	43468.433333
+43588.333333	120.100000	21794167	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	43588.333333
+43708.433333	121.366667	21854217	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	43708.433333
+43829.800000	0.266667	21914900	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	43829.800000
+43830.066667	119.666667	21915033	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	43830.066667
+43949.733333	0.166667	21974867	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	43949.733333
+43949.900000	118.600000	21974950	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	43949.900000
+44068.500000	0.133333	22034250	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	44068.500000
+44068.633333	119.533333	22034317	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	44068.633333
+44188.166667	0.033333	22094083	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	44188.166667
+44188.200000	119.766667	22094100	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	44188.200000
+44307.966667	0.100000	22153983	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	44307.966667
+44308.066667	120.300000	22154033	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	44308.066667
+44428.366667	0.133333	22214183	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	44428.366667
+44428.500000	120.200000	22214250	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	44428.500000
+44548.700000	0.033333	22274350	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	44548.700000
+44548.733333	119.600000	22274367	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	44548.733333
+44668.333333	0.133333	22334167	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	44668.333333
+44668.466667	119.633333	22334233	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	44668.466667
+44770.012000	1.566667	22385006	reach_onset	n/a	r_wrist	129.697470	-92.039501	47.237165	0.542543	0.006576	0.000000	0.000000	44770.012000	44770.013000
+44777.046000	3.266667	22388523	reach_onset	n/a	r_wrist	135.730167	86.229773	13.339818	0.535699	0.019007	0.000000	0.000000	44777.046000	44777.046000
+44788.100000	0.100000	22394050	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	44788.100000
+44788.200000	120.133333	22394100	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	44788.200000
+44908.333333	0.100000	22454167	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	44908.333333
+44908.433333	124.133333	22454217	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	44908.433333
+45032.566667	0.033333	22516283	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	45032.566667
+45032.600000	115.200000	22516300	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	45032.600000
+45147.800000	0.233333	22573900	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	45147.800000
+45148.033333	120.433333	22574017	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	45148.033333
+45268.466667	0.066667	22634233	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	45268.466667
+45268.533333	120.166667	22634267	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	45268.533333
+45388.700000	0.066667	22694350	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	45388.700000
+45388.766667	119.633333	22694383	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	45388.766667
+45508.400000	0.100000	22754200	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	45508.400000
+45508.500000	119.633333	22754250	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	45508.500000
+45628.133333	0.066667	22814067	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	45628.133333
+45628.200000	120.233333	22814100	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	45628.200000
+45748.433333	0.066667	22874217	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	45748.433333
+45748.500000	122.500000	22874250	coarse_label	Inactive	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	45748.500000
+45871.000000	0.033333	22935500	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	45871.000000
+45871.033333	120.866667	22935517	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	45871.033333
+45991.900000	0.100000	22995950	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	45991.900000
+45992.000000	116.800000	22996000	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	45992.000000
+46108.800000	0.066667	23054400	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	46108.800000
+46108.866667	119.766667	23054433	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	46108.866667
+46228.633333	0.133333	23114317	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	46228.633333
+46228.766667	119.333333	23114383	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	46228.766667
+46348.100000	0.033333	23174050	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	46348.100000
+46348.133333	120.266667	23174067	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	46348.133333
+46468.400000	0.066667	23234200	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	46468.400000
+46468.466667	125.966667	23234233	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	46468.466667
+46594.433333	0.066667	23297217	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	46594.433333
+46594.500000	114.233333	23297250	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	46594.500000
+46708.733333	0.100000	23354367	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	46708.733333
+46708.833333	119.500000	23354417	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	46708.833333
+46828.333333	0.100000	23414167	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	46828.333333
+46828.433333	120.066667	23414217	coarse_label	Inactive	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	46828.433333
+46948.500000	0.066667	23474250	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	46948.500000
+46948.566667	119.400000	23474283	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	46948.566667
+47067.966667	0.066667	23533983	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	47067.966667
+47068.033333	121.166667	23534017	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	47068.033333
+47189.200000	0.033333	23594600	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	47189.200000
+47189.233333	119.333333	23594617	coarse_label	Inactive	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	47189.233333
+47308.566667	0.066667	23654283	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	47308.566667
+47308.633333	120.200000	23654317	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	47308.633333
+47428.833333	0.100000	23714417	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	47428.833333
+47428.933333	119.466667	23714467	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	47428.933333
+47548.400000	0.100000	23774200	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	47548.400000
+47548.500000	120.233333	23774250	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	47548.500000
+47668.733333	0.066667	23834367	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	47668.733333
+47668.800000	119.566667	23834400	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	47668.800000
+47682.058000	0.533333	23841029	reach_onset	n/a	r_wrist	12.025473	172.152511	33.032210	0.465327	0.134369	0.000000	0.000000	47682.058000	47682.059000
+47727.692000	1.333333	23863846	reach_onset	n/a	r_wrist	28.745994	-155.102153	29.965557	0.459616	0.744835	0.933333	1.000000	47727.692000	47727.692000
+47752.558000	1.766667	23876279	reach_onset	n/a	r_wrist	63.215305	62.420275	35.560594	0.459755	0.424096	0.466667	1.000000	47752.558000	47752.559000
+47788.366667	0.100000	23894183	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	47788.366667
+47788.466667	120.100000	23894233	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	47788.466667
+47890.158000	0.966667	23945079	reach_onset	n/a	r_wrist	90.954841	-92.144444	26.673311	0.466631	0.022776	0.000000	0.000000	47890.158000	47890.158000
+47908.566667	0.100000	23954283	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	47908.566667
+47908.666667	119.966667	23954333	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	47908.666667
+48020.944000	0.700000	24010472	reach_onset	n/a	r_wrist	74.644961	-59.274231	75.114732	0.487969	0.558207	0.533333	1.000000	48020.944000	48020.944000
+48028.633333	0.200000	24014317	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	48028.633333
+48028.833333	119.100000	24014417	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	48028.833333
+48033.996000	1.066667	24016998	reach_onset	n/a	r_wrist	92.989913	151.715472	29.728353	0.501379	0.036906	0.000000	0.000000	48033.996000	48033.997000
+48147.933333	0.066667	24073967	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	48147.933333
+48148.000000	120.433333	24074000	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	48148.000000
+48268.433333	0.133333	24134217	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	48268.433333
+48268.566667	121.100000	24134283	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	48268.566667
+48389.666667	0.133333	24194833	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	48389.666667
+48389.800000	118.100000	24194900	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	48389.800000
+48507.900000	0.100000	24253950	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	48507.900000
+48508.000000	120.133333	24254000	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	48508.000000
+48628.133333	0.100000	24314067	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	48628.133333
+48628.233333	120.900000	24314117	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	48628.233333
+48749.133333	0.233333	24374567	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	48749.133333
+48749.366667	119.133333	24374683	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	48749.366667
+48868.500000	0.266667	24434250	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	48868.500000
+48868.766667	119.133333	24434383	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	48868.766667
+48987.900000	0.133333	24493950	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	48987.900000
+48988.033333	120.300000	24494017	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	48988.033333
+49108.333333	0.133333	24554167	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	49108.333333
+49108.466667	120.433333	24554233	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	49108.466667
+49228.900000	0.066667	24614450	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	49228.900000
+49228.966667	129.033333	24614483	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	49228.966667
+49358.000000	0.033333	24679000	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	49358.000000
+49358.033333	111.966667	24679017	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	49358.033333
+49470.000000	0.066667	24735000	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	49470.000000
+49470.066667	118.266667	24735033	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	49470.066667
+49588.333333	0.166667	24794167	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	49588.333333
+49588.500000	119.933333	24794250	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	49588.500000
+49708.433333	0.066667	24854217	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	49708.433333
+49708.500000	119.433333	24854250	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	49708.500000
+49827.933333	0.033333	24913967	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	49827.933333
+49827.966667	120.533333	24913983	coarse_label	Inactive	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	49827.966667
+49948.500000	0.066667	24974250	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	49948.500000
+49948.566667	119.766667	24974283	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	49948.566667
+50068.333333	0.066667	25034167	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	50068.333333
+50068.400000	120.000000	25034200	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	50068.400000
+50188.400000	0.066667	25094200	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	50188.400000
+50188.466667	119.966667	25094233	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	50188.466667
+50308.433333	0.033333	25154217	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	50308.433333
+50308.466667	120.000000	25154233	coarse_label	Inactive	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	50308.466667
+50428.466667	0.200000	25214233	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	50428.466667
+50428.666667	119.633333	25214333	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	50428.666667
+50548.300000	0.133333	25274150	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	50548.300000
+50548.433333	122.466667	25274217	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	50548.433333
+50670.900000	0.066667	25335450	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	50670.900000
+50670.966667	117.466667	25335483	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	50670.966667
+50788.433333	0.266667	25394217	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	50788.433333
+50788.700000	119.733333	25394350	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	50788.700000
+50908.433333	0.066667	25454217	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	50908.433333
+50908.500000	120.133333	25454250	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	50908.500000
+51028.633333	0.100000	25514317	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	51028.633333
+51028.733333	119.700000	25514367	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	51028.733333
+51148.433333	0.266667	25574217	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	51148.433333
+51148.700000	119.366667	25574350	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	51148.700000
+51268.066667	0.066667	25634033	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	51268.066667
+51268.133333	240.266667	25634067	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	51268.133333
+51508.400000	0.033333	25754200	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	51508.400000
+51508.433333	119.633333	25754217	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	51508.433333
+51628.066667	0.233333	25814033	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	51628.066667
+51628.300000	120.333333	25814150	coarse_label	Inactive	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	51628.300000
+51748.633333	0.066667	25874317	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	51748.633333
+51748.700000	120.533333	25874350	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	51748.700000
+51869.233333	0.233333	25934617	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	51869.233333
+51869.466667	119.333333	25934733	coarse_label	Talk	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	51869.466667
+51988.800000	0.033333	25994400	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	51988.800000
+51988.833333	119.400000	25994417	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	51988.833333
+52108.233333	0.166667	26054117	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	52108.233333
+52108.400000	119.866667	26054200	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	52108.400000
+52228.266667	0.033333	26114133	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	52228.266667
+52228.300000	120.400000	26114150	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	52228.300000
+52348.700000	0.066667	26174350	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	52348.700000
+52348.766667	120.666667	26174383	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	52348.766667
+52469.433333	0.033333	26234717	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	52469.433333
+52469.466667	121.033333	26234733	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	52469.466667
+52590.500000	0.066667	26295250	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	52590.500000
+52590.566667	119.166667	26295283	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	52590.566667
+52709.733333	0.166667	26354867	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	52709.733333
+52709.900000	117.933333	26354950	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	52709.900000
+52827.833333	0.066667	26413917	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	52827.833333
+52827.900000	120.733333	26413950	coarse_label	Talk	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	52827.900000
+52835.980000	1.333333	26417990	reach_onset	n/a	r_wrist	147.249605	-95.759859	55.026642	0.433284	0.005224	0.466667	1.000000	52835.980000	52835.980000
+52846.614000	1.866667	26423307	reach_onset	n/a	r_wrist	117.139930	67.447273	28.163796	0.406974	0.076918	0.266667	1.000000	52846.614000	52846.613000
+52948.633333	0.033333	26474317	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	52948.633333
+52948.666667	119.966667	26474333	coarse_label	Inactive	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	52948.666667
+53068.633333	0.100000	26534317	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	53068.633333
+53068.733333	119.800000	26534367	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	53068.733333
+53188.533333	0.066667	26594267	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	53188.533333
+53188.600000	119.100000	26594300	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	53188.600000
+53307.700000	0.233333	26653850	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	53307.700000
+53307.933333	132.200000	26653967	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	53307.933333
+53440.133333	0.166667	26720067	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	53440.133333
+53440.300000	108.100000	26720150	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	53440.300000
+53548.400000	0.100000	26774200	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	53548.400000
+53548.500000	129.233333	26774250	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	53548.500000
+53677.733333	0.166667	26838867	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	53677.733333
+53677.900000	113.433333	26838950	coarse_label	Inactive	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	53677.900000
+53791.333333	0.133333	26895667	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	53791.333333
+53791.466667	120.233333	26895733	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	53791.466667
+53911.700000	0.066667	26955850	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	53911.700000
+53911.766667	116.766667	26955883	coarse_label	Inactive	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	53911.766667
+53929.316000	4.002000	26964658	nan_segment	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+54028.533333	0.066667	27014267	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	54028.533333
+54028.600000	119.966667	27014300	coarse_label	Inactive	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	54028.600000
+54148.566667	0.066667	27074283	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	54148.566667
+54148.633333	122.000000	27074317	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	54148.633333
+54270.633333	0.066667	27135317	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	54270.633333
+54270.700000	117.433333	27135350	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	54270.700000
+54388.133333	0.066667	27194067	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	54388.133333
+54388.200000	120.400000	27194100	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	54388.200000
+54508.600000	0.133333	27254300	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	54508.600000
+54508.733333	119.733333	27254367	coarse_label	Inactive	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	54508.733333
+54628.466667	0.066667	27314233	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	54628.466667
+54628.533333	120.800000	27314267	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	54628.533333
+54749.333333	0.200000	27374667	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	54749.333333
+54749.533333	118.500000	27374767	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	54749.533333
+54868.033333	0.133333	27434017	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	54868.033333
+54868.166667	120.300000	27434083	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	54868.166667
+54988.466667	0.033333	27494233	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	54988.466667
+54988.500000	119.266667	27494250	coarse_label	Talk	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	54988.500000
+55107.766667	0.166667	27553883	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	55107.766667
+55107.933333	120.333333	27553967	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	55107.933333
+55228.266667	0.033333	27614133	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	55228.266667
+55228.300000	119.733333	27614150	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	55228.300000
+55273.524000	0.900000	27636762	reach_onset	n/a	r_wrist	19.725586	-100.212189	33.398468	0.357883	0.134463	0.200000	1.000000	55273.524000	55273.523000
+55348.033333	0.133333	27674017	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	55348.033333
+55348.166667	121.166667	27674083	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	55348.166667
+55469.333333	0.133333	27734667	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	55469.333333
+55469.466667	119.200000	27734733	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	55469.466667
+55588.666667	0.166667	27794333	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	55588.666667
+55588.833333	119.033333	27794417	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	55588.833333
+55707.866667	0.233333	27853933	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	55707.866667
+55708.100000	120.300000	27854050	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	55708.100000
+55828.400000	0.133333	27914200	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	55828.400000
+55828.533333	119.333333	27914267	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	55828.533333
+55947.866667	0.033333	27973933	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	55947.866667
+55947.900000	120.233333	27973950	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	55947.900000
+56068.133333	0.133333	28034067	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	56068.133333
+56068.266667	120.000000	28034133	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	56068.266667
+56134.352000	3.998000	28067176	nan_segment	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+56188.266667	0.266667	28094133	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	56188.266667
+56188.533333	119.800000	28094267	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	56188.533333
+56308.333333	0.233333	28154167	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	56308.333333
+56308.566667	123.100000	28154283	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	56308.566667
+56431.666667	0.066667	28215833	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	56431.666667
+56431.733333	116.233333	28215867	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	56431.733333
+56547.966667	0.166667	28273983	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	56547.966667
+56548.133333	120.233333	28274067	coarse_label	Inactive	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	56548.133333
+56668.366667	0.066667	28334183	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	56668.366667
+56668.433333	120.100000	28334217	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	56668.433333
+56788.533333	0.133333	28394267	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	56788.533333
+56788.666667	119.933333	28394333	coarse_label	Inactive	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	56788.666667
+56908.600000	0.066667	28454300	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	56908.600000
+56908.666667	119.333333	28454333	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	56908.666667
+57028.000000	0.033333	28514000	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	57028.000000
+57028.033333	120.300000	28514017	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	57028.033333
+57148.333333	0.066667	28574167	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	57148.333333
+57148.400000	119.333333	28574200	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	57148.400000
+57267.733333	0.066667	28633867	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	57267.733333
+57267.800000	122.733333	28633900	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	57267.800000
+57390.533333	0.066667	28695267	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	57390.533333
+57390.600000	117.200000	28695300	coarse_label	Inactive	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	57390.600000
+57452.626000	4.000000	28726313	nan_segment	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+57507.800000	0.266667	28753900	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	57507.800000
+57508.066667	120.200000	28754033	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	57508.066667
+57628.266667	0.266667	28814133	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	57628.266667
+57628.533333	119.333333	28814267	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	57628.533333
+57747.866667	0.033333	28873933	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	57747.866667
+57747.900000	120.433333	28873950	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	57747.900000
+57868.333333	0.066667	28934167	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	57868.333333
+57868.400000	120.000000	28934200	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	57868.400000
+57988.400000	0.233333	28994200	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	57988.400000
+57988.633333	119.400000	28994317	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	57988.633333
+58108.033333	0.066667	29054017	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	58108.033333
+58108.100000	119.533333	29054050	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	58108.100000
+58221.926000	1.800000	29110963	reach_onset	n/a	r_wrist	106.893752	-92.403297	19.014347	0.417672	0.629909	1.533333	1.000000	58221.926000	58221.926000
+58227.633333	0.133333	29113817	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	58227.633333
+58227.766667	120.733333	29113883	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	58227.766667
+58265.184000	4.000000	29132592	nan_segment	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+58348.500000	0.200000	29174250	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	58348.500000
+58348.700000	119.166667	29174350	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	58348.700000
+58467.866667	0.133333	29233933	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	58467.866667
+58468.000000	120.600000	29234000	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	58468.000000
+58519.232000	1.466667	29259616	reach_onset	n/a	r_wrist	29.101635	-130.781004	30.058790	0.416811	0.002018	0.000000	0.000000	58519.232000	58519.233000
+58588.600000	0.066667	29294300	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	58588.600000
+58588.666667	119.766667	29294333	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	58588.666667
+58708.433333	0.100000	29354217	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	58708.433333
+58708.533333	120.033333	29354267	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	58708.533333
+58828.566667	0.166667	29414283	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	58828.566667
+58828.733333	119.000000	29414367	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	58828.733333
+58947.733333	0.200000	29473867	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	58947.733333
+58947.933333	119.800000	29473967	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	58947.933333
+59067.733333	0.066667	29533867	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	59067.733333
+59067.800000	119.866667	29533900	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	59067.800000
+59174.330000	1.233333	29587165	reach_onset	n/a	r_wrist	18.871825	-76.685629	23.919415	0.513569	0.092577	0.000000	0.000000	59174.330000	59174.330000
+59187.666667	0.233333	29593833	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	59187.666667
+59187.900000	123.166667	29593950	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	59187.900000
+59311.066667	0.133333	29655533	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	59311.066667
+59311.200000	118.100000	29655600	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	59311.200000
+59429.300000	0.100000	29714650	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	59429.300000
+59429.400000	238.300000	29714700	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	59429.400000
+59667.700000	0.266667	29833850	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	59667.700000
+59667.966667	120.200000	29833983	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	59667.966667
+59788.166667	0.300000	29894083	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	59788.166667
+59788.466667	121.300000	29894233	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	59788.466667
+59882.306000	1.200000	29941153	reach_onset	n/a	r_wrist	23.290343	49.713278	8.487495	0.501020	0.534784	0.666667	1.000000	59882.306000	59882.307000
+59909.766667	0.066667	29954883	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	59909.766667
+59909.833333	118.800000	29954917	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	59909.833333
+60028.633333	0.066667	30014317	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	60028.633333
+60028.700000	119.466667	30014350	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	60028.700000
+60148.166667	0.066667	30074083	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	60148.166667
+60148.233333	119.666667	30074117	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	60148.233333
+60178.892000	4.000000	30089446	nan_segment	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+60267.900000	0.200000	30133950	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	60267.900000
+60268.100000	121.733333	30134050	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	60268.100000
+60389.833333	0.133333	30194917	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	60389.833333
+60389.966667	118.700000	30194983	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	60389.966667
+60508.666667	0.066667	30254333	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	60508.666667
+60508.733333	120.500000	30254367	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	60508.733333
+60533.418000	1.366667	30266709	reach_onset	n/a	r_wrist	101.410656	-97.673914	68.093399	0.381200	0.570157	1.233333	1.000000	60533.418000	60533.419000
+60539.756000	3.998000	30269878	nan_segment	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+60584.352000	1.466667	30292176	reach_onset	n/a	r_wrist	121.510780	100.401086	42.593545	0.383910	0.049133	0.000000	0.000000	60584.352000	60584.352000
+60629.233333	0.066667	30314617	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	60629.233333
+60629.300000	118.666667	30314650	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	60629.300000
+60747.966667	0.166667	30373983	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	60747.966667
+60748.133333	119.633333	30374067	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	60748.133333
+60867.766667	0.066667	30433883	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	60867.766667
+60867.833333	120.400000	30433917	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	60867.833333
+60981.932000	1.200000	30490966	reach_onset	n/a	r_wrist	8.126610	-143.035401	15.202659	0.381408	0.372686	0.366667	1.000000	60981.932000	60981.933000
+60988.233333	0.033333	30494117	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	60988.233333
+60988.266667	119.466667	30494133	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	60988.266667
+60994.154000	1.666667	30497077	reach_onset	n/a	r_wrist	23.781916	45.346472	21.869903	0.377892	0.273019	0.900000	1.000000	60994.154000	60994.154000
+61107.733333	0.066667	30553867	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	61107.733333
+61107.800000	120.233333	30553900	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	61107.800000
+61221.340000	1.366667	30610670	reach_onset	n/a	r_wrist	102.190119	-72.522719	107.393054	0.138804	0.246706	0.833333	1.000000	61221.340000	61221.340000
+61228.033333	0.033333	30614017	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	61228.033333
+61228.066667	120.300000	30614033	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	61228.066667
+61259.462000	1.433333	30629731	reach_onset	n/a	r_wrist	16.501179	-134.416456	7.687824	0.150005	0.228301	0.000000	0.000000	61259.462000	61259.463000
+61277.862000	2.000000	30638931	reach_onset	n/a	r_wrist	91.703653	106.148370	6.928927	0.167741	0.881942	1.500000	1.000000	61277.862000	61277.863000
+61348.366667	0.266667	30674183	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	61348.366667
+61348.633333	119.400000	30674317	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	61348.633333
+61468.033333	0.033333	30734017	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	61468.033333
+61468.066667	119.566667	30734033	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	61468.066667
+61587.633333	0.133333	30793817	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	61587.633333
+61587.766667	120.600000	30793883	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	61587.766667
+61708.366667	0.033333	30854183	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	61708.366667
+61708.400000	119.866667	30854200	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	61708.400000
+61823.762000	4.000000	30911881	nan_segment	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+61828.266667	0.066667	30914133	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	61828.266667
+61828.333333	121.933333	30914167	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	61828.333333
+61950.266667	0.100000	30975133	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	61950.266667
+61950.366667	118.700000	30975183	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	61950.366667
+62004.804000	1.733333	31002402	reach_onset	n/a	r_wrist	134.940789	-89.581485	54.261766	0.513286	0.003575	0.000000	0.000000	62004.804000	62004.805000
+62011.038000	1.066667	31005519	reach_onset	n/a	r_wrist	14.152070	35.718119	9.935992	0.509518	0.046043	0.000000	0.000000	62011.038000	62011.038000
+62069.066667	0.100000	31034533	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	62069.066667
+62069.166667	119.033333	31034583	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	62069.166667
+62188.200000	0.033333	31094100	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	62188.200000
+62188.233333	120.100000	31094117	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	62188.233333
+62308.333333	0.100000	31154167	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	62308.333333
+62308.433333	120.233333	31154217	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	62308.433333
+62428.666667	0.066667	31214333	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	62428.666667
+62428.733333	119.333333	31214367	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	62428.733333
+62548.066667	0.033333	31274033	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	62548.066667
+62548.100000	120.300000	31274050	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	62548.100000
+62668.400000	0.200000	31334200	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	62668.400000
+62668.600000	121.300000	31334300	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	62668.600000
+62789.900000	0.033333	31394950	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	62789.900000
+62789.933333	118.400000	31394967	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	62789.933333
+62908.333333	0.100000	31454167	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	62908.333333
+62908.433333	120.500000	31454217	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	62908.433333
+63028.933333	0.033333	31514467	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	63028.933333
+63028.966667	119.066667	31514483	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	63028.966667
+63148.033333	0.066667	31574017	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	63148.033333
+63148.100000	120.333333	31574050	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	63148.100000
+63268.433333	0.066667	31634217	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	63268.433333
+63268.500000	119.566667	31634250	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	63268.500000
+63388.066667	0.100000	31694033	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	63388.066667
+63388.166667	122.766667	31694083	coarse_label	Inactive	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	63388.166667
+63510.933333	0.033333	31755467	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	63510.933333
+63510.966667	117.933333	31755483	coarse_label	Inactive	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	63510.966667
+63628.900000	0.100000	31814450	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	63628.900000
+63629.000000	119.366667	31814500	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	63629.000000
+63748.366667	0.200000	31874183	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	63748.366667
+63748.566667	122.666667	31874283	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	63748.566667
+63871.233333	0.033333	31935617	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	63871.233333
+63871.266667	116.466667	31935633	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	63871.266667
+63987.733333	0.066667	31993867	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	63987.733333
+63987.800000	122.600000	31993900	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	63987.800000
+64110.400000	0.033333	32055200	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	64110.400000
+64110.433333	117.700000	32055217	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	64110.433333
+64228.133333	0.233333	32114067	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	64228.133333
+64228.366667	121.166667	32114183	coarse_label	Blocklist (Camera move/zoom)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	64228.366667
+64349.533333	0.100000	32174767	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	64349.533333
+64349.633333	118.800000	32174817	coarse_label	Inactive	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	64349.633333
+64468.433333	0.133333	32234217	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	64468.433333
+64468.566667	119.733333	32234283	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	64468.566667
+64588.300000	0.033333	32294150	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	64588.300000
+64588.333333	119.700000	32294167	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	64588.333333
+64708.033333	0.066667	32354017	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	64708.033333
+64708.100000	119.766667	32354050	coarse_label	Inactive	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	64708.100000
+64827.866667	0.066667	32413933	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	64827.866667
+64827.933333	119.566667	32413967	coarse_label	Inactive	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	64827.933333
+64947.500000	0.166667	32473750	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	64947.500000
+64947.666667	126.100000	32473833	coarse_label	Inactive	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	64947.666667
+65073.766667	0.066667	32536883	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	65073.766667
+65073.833333	114.333333	32536917	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	65073.833333
+65188.166667	0.033333	32594083	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	65188.166667
+65188.200000	119.600000	32594100	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	65188.200000
+65307.800000	0.066667	32653900	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	65307.800000
+65307.866667	120.166667	32653933	coarse_label	Inactive	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	65307.866667
+65428.033333	0.033333	32714017	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	65428.033333
+65428.066667	119.600000	32714033	coarse_label	Inactive	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	65428.066667
+65547.666667	0.133333	32773833	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	65547.666667
+65547.800000	120.500000	32773900	coarse_label	Inactive	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	65547.800000
+65668.300000	0.066667	32834150	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	65668.300000
+65668.366667	119.200000	32834183	coarse_label	Inactive	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	65668.366667
+65787.566667	0.266667	32893783	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	65787.566667
+65787.833333	120.433333	32893917	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	65787.833333
+65908.266667	0.066667	32954133	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	65908.266667
+65908.333333	121.400000	32954167	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	65908.333333
+66029.733333	0.166667	33014867	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	66029.733333
+66029.900000	119.266667	33014950	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	66029.900000
+66149.166667	0.233333	33074583	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	66149.166667
+66149.400000	118.433333	33074700	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	66149.400000
+66267.833333	0.100000	33133917	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	66267.833333
+66267.933333	119.600000	33133967	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	66267.933333
+66387.533333	0.166667	33193767	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	66387.533333
+66387.700000	121.700000	33193850	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	66387.700000
+66509.400000	0.100000	33254700	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	66509.400000
+66509.500000	118.433333	33254750	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	66509.500000
+66627.933333	0.166667	33313967	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	66627.933333
+66628.100000	120.666667	33314050	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	66628.100000
+66748.766667	0.100000	33374383	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	66748.766667
+66748.866667	120.633333	33374433	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	66748.866667
+66869.500000	0.100000	33434750	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	66869.500000
+66869.600000	118.400000	33434800	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	66869.600000
+66988.000000	0.166667	33494000	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	66988.000000
+66988.166667	119.600000	33494083	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	66988.166667
+67107.766667	0.066667	33553883	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	67107.766667
+67107.833333	120.566667	33553917	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	67107.833333
+67228.400000	0.033333	33614200	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	67228.400000
+67228.433333	120.566667	33614217	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	67228.433333
+67349.000000	0.066667	33674500	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	67349.000000
+67349.066667	118.433333	33674533	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	67349.066667
+67467.500000	0.200000	33733750	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	67467.500000
+67467.700000	120.700000	33733850	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	67467.700000
+67588.400000	0.100000	33794200	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	67588.400000
+67588.500000	121.866667	33794250	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	67588.500000
+67710.366667	0.066667	33855183	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	67710.366667
+67710.433333	117.500000	33855217	coarse_label	Inactive	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	67710.433333
+67827.933333	0.200000	33913967	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	67827.933333
+67828.133333	120.800000	33914067	coarse_label	Inactive	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	67828.133333
+67948.933333	0.233333	33974467	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	67948.933333
+67949.166667	124.333333	33974583	coarse_label	Inactive	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	67949.166667
+68073.500000	0.133333	34036750	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	68073.500000
+68073.633333	122.533333	34036817	coarse_label	Inactive	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	68073.633333
+68196.166667	0.133333	34098083	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	68196.166667
+68196.300000	134.000000	34098150	coarse_label	Inactive	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	68196.300000
+68330.300000	0.066667	34165150	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	68330.300000
+68330.366667	97.233333	34165183	coarse_label	Inactive	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	68330.366667
+68427.600000	0.066667	34213800	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	68427.600000
+68427.666667	120.200000	34213833	coarse_label	Inactive	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	68427.666667
+68547.866667	0.033333	34273933	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	68547.866667
+68547.900000	121.166667	34273950	coarse_label	Inactive	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	68547.900000
+68669.066667	0.133333	34334533	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	68669.066667
+68669.200000	121.100000	34334600	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	68669.200000
+68790.300000	0.033333	34395150	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	68790.300000
+68790.333333	117.766667	34395167	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	68790.333333
+68908.100000	0.200000	34454050	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	68908.100000
+68908.300000	122.233333	34454150	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	68908.300000
+69030.533333	0.066667	34515267	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	69030.533333
+69030.600000	117.766667	34515300	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	69030.600000
+69148.366667	0.133333	34574183	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	69148.366667
+69148.500000	120.000000	34574250	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	69148.500000
+69268.500000	0.133333	34634250	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	69268.500000
+69268.633333	119.000000	34634317	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	69268.633333
+69387.633333	0.066667	34693817	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	69387.633333
+69387.700000	124.533333	34693850	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	69387.700000
+69512.233333	0.233333	34756117	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	69512.233333
+69512.466667	123.500000	34756233	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	69512.466667
+69635.966667	0.133333	34817983	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	69635.966667
+69636.100000	111.633333	34818050	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	69636.100000
+69747.733333	0.166667	34873867	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	69747.733333
+69747.900000	121.300000	34873950	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	69747.900000
+69869.200000	0.133333	34934600	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	69869.200000
+69869.333333	120.200000	34934667	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	69869.333333
+69989.533333	0.166667	34994767	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	69989.533333
+69989.700000	117.933333	34994850	coarse_label	Blocklist (Camera move/zoom)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	69989.700000
+70107.633333	0.166667	35053817	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	70107.633333
+70107.800000	120.166667	35053900	coarse_label	Blocklist (Camera move/zoom)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	70107.800000
+70227.966667	0.166667	35113983	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	70227.966667
+70228.133333	120.133333	35114067	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	70228.133333
+70302.476000	0.533333	35151238	reach_onset	n/a	r_wrist	24.052951	-143.340543	48.631383	0.422163	0.346458	0.466667	1.000000	70302.476000	70302.476000
+70317.508000	0.833333	35158754	reach_onset	n/a	r_wrist	49.749690	-153.593722	44.911770	0.449856	0.012294	0.000000	0.000000	70317.508000	70317.509000
+70337.108000	1.700000	35168554	reach_onset	n/a	r_wrist	20.626154	-4.180435	12.955844	0.476165	0.780744	1.366667	1.000000	70337.108000	70337.109000
+70341.476000	1.533333	35170738	reach_onset	n/a	r_wrist	60.447192	119.958421	33.955093	0.478623	0.711613	0.933333	1.000000	70341.476000	70341.476000
+70348.266667	0.133333	35174133	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	70348.266667
+70348.400000	119.066667	35174200	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	70348.400000
+70369.530000	0.800000	35184765	reach_onset	n/a	r_wrist	75.551614	-92.166185	94.622687	0.462125	0.662269	0.800000	1.000000	70369.530000	70369.529000
+70467.466667	0.266667	35233733	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	70467.466667
+70467.733333	119.833333	35233867	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	70467.733333
+70587.566667	0.100000	35293783	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	70587.566667
+70587.666667	119.900000	35293833	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	70587.666667
+70707.566667	0.100000	35353783	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	70707.566667
+70707.666667	121.333333	35353833	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	70707.666667
+70829.000000	0.100000	35414500	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	70829.000000
+70829.100000	118.700000	35414550	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	70829.100000
+70947.800000	0.200000	35473900	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	70947.800000
+70948.000000	119.600000	35474000	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	70948.000000
+71067.600000	0.100000	35533800	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	71067.600000
+71067.700000	120.500000	35533850	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	71067.700000
+71188.200000	0.166667	35594100	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	71188.200000
+71188.366667	119.300000	35594183	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	71188.366667
+71307.666667	0.300000	35653833	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	71307.666667
+71307.966667	119.633333	35653983	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	71307.966667
+71427.600000	0.066667	35713800	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	71427.600000
+71427.666667	120.700000	35713833	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	71427.666667
+71548.366667	0.166667	35774183	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	71548.366667
+71548.533333	124.866667	35774267	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	71548.533333
+71628.108000	1.433333	35814054	reach_onset	n/a	r_wrist	52.689569	-121.026148	30.410929	0.314072	0.029120	0.200000	1.000000	71628.108000	71628.108000
+71640.308000	0.733333	35820154	reach_onset	n/a	r_wrist	26.929862	76.946527	98.096906	0.308877	0.032682	0.000000	0.000000	71640.308000	71640.308000
+71673.400000	0.166667	35836700	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	71673.400000
+71673.566667	114.166667	35836783	coarse_label	Other activity	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	71673.566667
+71787.733333	0.233333	35893867	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	71787.733333
+71787.966667	119.833333	35893983	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	71787.966667
+71907.800000	0.166667	35953900	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	71907.800000
+71907.966667	120.733333	35953983	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	71907.966667
+72028.700000	0.066667	36014350	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	72028.700000
+72028.766667	118.666667	36014383	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	72028.766667
+72147.433333	0.100000	36073717	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	72147.433333
+72147.533333	120.733333	36073767	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	72147.533333
+72268.266667	0.233333	36134133	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	72268.266667
+72268.500000	116.466667	36134250	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	72268.500000
+72384.966667	4.133333	36192483	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	72384.966667
+72389.100000	130.600000	36194550	coarse_label	Other activity	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	72389.100000
+72506.426000	1.666667	36253213	reach_onset	n/a	r_wrist	36.389695	94.988521	17.422186	0.351464	0.032132	0.000000	0.000000	72506.426000	72506.426000
+72519.700000	0.233333	36259850	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	72519.700000
+72519.933333	109.866667	36259967	coarse_label	Other activity	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	72519.933333
+72531.904000	2.433333	36265952	reach_onset	n/a	r_wrist	102.136486	-111.539861	27.036106	0.376986	0.533479	2.200000	1.000000	72531.904000	72531.905000
+72557.638000	1.000000	36278819	reach_onset	n/a	r_wrist	30.170105	-97.999843	48.978509	0.434026	0.104049	0.000000	0.000000	72557.638000	72557.638000
+72594.204000	2.000000	36297102	reach_onset	n/a	r_wrist	94.893181	-157.578026	41.315232	0.534672	0.010911	0.533333	1.000000	72594.204000	72594.205000
+72629.800000	0.133333	36314900	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	72629.800000
+72629.933333	119.266667	36314967	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	72629.933333
+72749.200000	0.066667	36374600	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	72749.200000
+72749.266667	119.900000	36374633	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	72749.266667
+72869.166667	0.166667	36434583	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	72869.166667
+72869.333333	119.800000	36434667	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	72869.333333
+72989.133333	0.166667	36494567	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	72989.133333
+72989.300000	120.400000	36494650	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	72989.300000
+73109.700000	0.066667	36554850	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	73109.700000
+73109.766667	119.366667	36554883	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	73109.766667
+73229.133333	0.033333	36614567	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	73229.133333
+73229.166667	120.433333	36614583	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	73229.166667
+73349.600000	0.133333	36674800	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	73349.600000
+73349.733333	120.466667	36674867	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	73349.733333
+73470.200000	0.066667	36735100	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	73470.200000
+73470.266667	119.366667	36735133	coarse_label	Inactive	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	73470.266667
+73589.633333	0.100000	36794817	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	73589.633333
+73589.733333	119.633333	36794867	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	73589.733333
+73709.366667	0.266667	36854683	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	73709.366667
+73709.633333	119.866667	36854817	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	73709.633333
+73829.500000	0.066667	36914750	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	73829.500000
+73829.566667	119.833333	36914783	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	73829.566667
+73949.400000	0.300000	36974700	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	73949.400000
+73949.700000	128.633333	36974850	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	73949.700000
+74078.333333	0.033333	37039167	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	74078.333333
+74078.366667	110.566667	37039183	coarse_label	Inactive	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	74078.366667
+74188.933333	0.066667	37094467	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	74188.933333
+74189.000000	119.966667	37094500	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	74189.000000
+74308.966667	120.500000	37154483	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	74308.966667
+74429.466667	120.800000	37214733	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	74429.466667
+74550.266667	0.233333	37275133	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	74550.266667
+74550.500000	118.933333	37275250	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	74550.500000
+74669.433333	0.133333	37334717	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	74669.433333
+74669.566667	119.733333	37334783	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	74669.566667
+74789.300000	0.200000	37394650	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	74789.300000
+74789.500000	119.833333	37394750	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	74789.500000
+74909.333333	0.100000	37454667	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	74909.333333
+74909.433333	120.266667	37454717	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	74909.433333
+75029.700000	0.200000	37514850	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	75029.700000
+75029.900000	119.633333	37514950	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	75029.900000
+75149.533333	0.033333	37574767	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	75149.533333
+75149.566667	119.833333	37574783	coarse_label	Inactive	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	75149.566667
+75269.400000	0.133333	37634700	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	75269.400000
+75269.533333	119.566667	37634767	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	75269.533333
+75389.100000	0.133333	37694550	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	75389.100000
+75389.233333	120.033333	37694617	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	75389.233333
+75509.266667	0.100000	37754633	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	75509.266667
+75509.366667	120.200000	37754683	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	75509.366667
+75629.566667	0.133333	37814783	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	75629.566667
+75629.700000	122.766667	37814850	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	75629.700000
+75730.226000	1.000000	37865113	reach_onset	n/a	r_wrist	30.447543	71.501458	30.306345	0.369147	0.285578	0.300000	1.000000	75730.226000	75730.227000
+75748.294000	1.333333	37874147	reach_onset	n/a	r_wrist	32.181869	-104.276100	10.944748	0.386516	0.290848	0.800000	1.000000	75748.294000	75748.294000
+75752.466667	0.066667	37876233	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	75752.466667
+75752.533333	116.800000	37876267	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	75752.533333
+75756.882000	1.066667	37878441	reach_onset	n/a	r_wrist	46.110123	76.125957	42.086330	0.404853	0.272439	1.066667	1.000000	75756.882000	75756.883000
+75760.116000	2.533333	37880058	reach_onset	n/a	r_wrist	38.203358	-97.119230	8.055865	0.410685	0.906683	1.366667	1.000000	75760.116000	75760.116000
+75869.333333	0.166667	37934667	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	75869.333333
+75869.500000	121.600000	37934750	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	75869.500000
+75914.966000	1.600000	37957483	reach_onset	n/a	r_wrist	59.950285	-129.212873	36.881607	0.349136	0.142991	0.866667	1.000000	75914.966000	75914.967000
+75925.000000	2.366667	37962500	reach_onset	n/a	r_wrist	135.553160	98.913700	99.335115	0.340910	0.075194	1.166667	1.000000	75925.000000	75925.000000
+75991.100000	0.133333	37995550	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	75991.100000
+75991.233333	117.766667	37995617	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	75991.233333
+76109.000000	0.066667	38054500	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	76109.000000
+76109.066667	124.666667	38054533	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	76109.066667
+76233.733333	0.066667	38116867	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	76233.733333
+76233.800000	115.866667	38116900	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	76233.800000
+76349.666667	0.166667	38174833	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	76349.666667
+76349.833333	120.000000	38174917	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	76349.833333
+76469.833333	0.133333	38234917	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	76469.833333
+76469.966667	119.866667	38234983	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	76469.966667
+76589.833333	0.200000	38294917	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	76589.833333
+76590.033333	118.666667	38295017	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	76590.033333
+76708.700000	0.266667	38354350	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	76708.700000
+76708.966667	122.900000	38354483	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	76708.966667
+76831.866667	0.233333	38415933	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	76831.866667
+76832.100000	118.800000	38416050	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	76832.100000
+76950.900000	0.033333	38475450	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	76950.900000
+76950.933333	123.066667	38475467	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	76950.933333
+77074.000000	0.200000	38537000	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	77074.000000
+77074.200000	115.533333	38537100	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	77074.200000
+77189.733333	0.100000	38594867	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	77189.733333
+77189.833333	126.333333	38594917	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	77189.833333
+77316.166667	0.133333	38658083	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	77316.166667
+77316.300000	113.433333	38658150	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	77316.300000
+77429.733333	0.033333	38714867	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	77429.733333
+77429.766667	119.800000	38714883	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	77429.766667
+77549.566667	0.100000	38774783	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	77549.566667
+77549.666667	121.966667	38774833	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	77549.666667
+77671.633333	0.133333	38835817	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	77671.633333
+77671.766667	117.700000	38835883	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	77671.766667
+77789.466667	0.100000	38894733	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	77789.466667
+77789.566667	119.966667	38894783	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	77789.566667
+77909.533333	0.066667	38954767	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	77909.533333
+77909.600000	119.966667	38954800	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	77909.600000
+78029.566667	0.033333	39014783	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	78029.566667
+78029.600000	119.800000	39014800	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	78029.600000
+78149.400000	0.266667	39074700	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	78149.400000
+78149.666667	120.066667	39074833	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	78149.666667
+78269.733333	0.100000	39134867	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	78269.733333
+78269.833333	119.066667	39134917	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	78269.833333
+78388.900000	0.100000	39194450	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	78388.900000
+78389.000000	120.066667	39194500	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	78389.000000
+78509.066667	0.133333	39254533	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	78509.066667
+78509.200000	119.966667	39254600	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	78509.200000
+78629.166667	0.133333	39314583	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	78629.166667
+78629.300000	119.433333	39314650	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	78629.300000
+78748.733333	0.133333	39374367	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	78748.733333
+78748.866667	120.233333	39374433	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	78748.866667
+78751.288000	2.733333	39375644	reach_onset	n/a	r_wrist	47.073638	8.667622	48.608583	0.196929	0.193611	0.000000	1.000000	78751.288000	78751.288000
+78869.100000	0.133333	39434550	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	78869.100000
+78869.233333	120.166667	39434617	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	78869.233333
+78875.208000	1.866667	39437604	reach_onset	n/a	r_wrist	64.028188	41.168010	31.115921	0.246110	0.003344	0.000000	0.000000	78875.208000	78875.209000
+78989.400000	0.100000	39494700	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	78989.400000
+78989.500000	119.233333	39494750	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	78989.500000
+79108.733333	0.133333	39554367	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	79108.733333
+79108.866667	120.433333	39554433	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	79108.866667
+79229.300000	0.066667	39614650	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	79229.300000
+79229.366667	121.733333	39614683	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	79229.366667
+79351.100000	0.100000	39675550	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	79351.100000
+79351.200000	120.133333	39675600	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	79351.200000
+79471.333333	0.033333	39735667	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	79471.333333
+79471.366667	117.766667	39735683	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	79471.366667
+79589.133333	0.066667	39794567	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	79589.133333
+79589.200000	119.900000	39794600	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	79589.200000
+79709.100000	0.300000	39854550	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	79709.100000
+79709.400000	119.466667	39854700	coarse_label	Blocklist (Camera move/zoom)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	79709.400000
+79828.866667	0.033333	39914433	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	79828.866667
+79828.900000	122.333333	39914450	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	79828.900000
+79928.056000	1.666667	39964028	reach_onset	n/a	r_wrist	89.899909	131.546486	66.148625	0.430058	0.053220	0.000000	0.000000	79928.056000	79928.057000
+79951.233333	0.166667	39975617	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	79951.233333
+79951.400000	117.200000	39975700	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	79951.400000
+79956.246000	1.033333	39978123	reach_onset	n/a	r_wrist	31.742614	-35.780812	42.943720	0.408500	0.904951	1.033333	1.000000	79956.246000	79956.246000
+80068.600000	0.166667	40034300	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	80068.600000
+80068.766667	120.966667	40034383	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	80068.766667
+80189.733333	0.100000	40094867	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	80189.733333
+80189.833333	122.233333	40094917	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	80189.833333
+80312.066667	0.066667	40156033	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	80312.066667
+80312.133333	116.966667	40156067	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	80312.133333
+80429.100000	0.133333	40214550	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	80429.100000
+80429.233333	121.500000	40214617	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	80429.233333
+80550.733333	0.066667	40275367	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	80550.733333
+80550.800000	122.000000	40275400	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	80550.800000
+80635.308000	1.433333	40317654	reach_onset	n/a	r_wrist	40.211334	-143.772039	48.114000	0.361883	0.033221	0.000000	0.000000	80635.308000	80635.309000
+80672.800000	0.200000	40336400	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	80672.800000
+80673.000000	116.500000	40336500	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	80673.000000
+80789.500000	0.133333	40394750	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	80789.500000
+80789.633333	119.166667	40394817	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	80789.633333
+80908.800000	0.133333	40454400	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	80908.800000
+80908.933333	120.133333	40454467	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	80908.933333
+81029.066667	0.066667	40514533	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	81029.066667
+81029.133333	119.533333	40514567	coarse_label	Talk	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	81029.133333
+81148.666667	0.233333	40574333	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	81148.666667
+81148.900000	119.866667	40574450	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	81148.900000
+81268.766667	0.100000	40634383	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	81268.766667
+81268.866667	121.833333	40634433	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	81268.866667
+81390.700000	0.066667	40695350	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	81390.700000
+81390.766667	119.266667	40695383	coarse_label		n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	81390.766667
+81510.033333	0.066667	40755017	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	81510.033333
+81510.100000	119.500000	40755050	coarse_label	Talk	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	81510.100000
+81629.600000	0.100000	40814800	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	81629.600000
+81629.700000	120.000000	40814850	coarse_label	Talk	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	81629.700000
+81749.700000	0.233333	40874850	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	81749.700000
+81749.933333	119.266667	40874967	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	81749.933333
+81869.200000	0.033333	40934600	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	81869.200000
+81869.233333	120.800000	40934617	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	81869.233333
+81990.033333	0.066667	40995017	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	81990.033333
+81990.100000	119.000000	40995050	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	81990.100000
+82109.100000	0.033333	41054550	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	82109.100000
+82109.133333	119.566667	41054567	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	82109.133333
+82228.700000	0.100000	41114350	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	82228.700000
+82228.800000	121.300000	41114400	coarse_label	Inactive	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	82228.800000
+82350.100000	0.100000	41175050	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	82350.100000
+82350.200000	119.133333	41175100	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	82350.200000
+82469.333333	0.066667	41234667	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	82469.333333
+82469.400000	120.066667	41234700	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	82469.400000
+82589.466667	0.066667	41294733	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	82589.466667
+82589.533333	120.166667	41294767	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	82589.533333
+82709.700000	0.033333	41354850	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	82709.700000
+82709.733333	119.400000	41354867	coarse_label	Blocklist (Camera move/zoom)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	82709.733333
+82829.133333	0.100000	41414567	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	82829.133333
+82829.233333	120.366667	41414617	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	82829.233333
+82949.600000	0.033333	41474800	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	82949.600000
+82949.633333	119.133333	41474817	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	82949.633333
+83068.766667	0.100000	41534383	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	83068.766667
+83068.866667	120.333333	41534433	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	83068.866667
+83189.200000	0.033333	41594600	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	83189.200000
+83189.233333	120.200000	41594617	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	83189.233333
+83309.433333	0.066667	41654717	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	83309.433333
+83309.500000	120.200000	41654750	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	83309.500000
+83429.700000	0.033333	41714850	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	83429.700000
+83429.733333	119.100000	41714867	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	83429.733333
+83548.833333	0.066667	41774417	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	83548.833333
+83548.900000	120.333333	41774450	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	83548.900000
+83669.233333	0.033333	41834617	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	83669.233333
+83669.266667	119.233333	41834633	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	83669.266667
+83788.500000	0.233333	41894250	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	83788.500000
+83788.733333	120.533333	41894367	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	83788.733333
+83909.266667	0.066667	41954633	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	83909.266667
+83909.333333	119.100000	41954667	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	83909.333333
+84028.433333	0.266667	42014217	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	84028.433333
+84028.700000	120.366667	42014350	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	84028.700000
+84149.066667	0.100000	42074533	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	84149.066667
+84149.166667	120.300000	42074583	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	84149.166667
+84269.466667	0.200000	42134733	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	84269.466667
+84269.666667	120.333333	42134833	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	84269.666667
+84390.000000	0.100000	42195000	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	84390.000000
+84390.100000	119.300000	42195050	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	84390.100000
+84509.400000	0.033333	42254700	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	84509.400000
+84509.433333	120.200000	42254717	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	84509.433333
+84629.633333	0.200000	42314817	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	84629.633333
+84629.833333	119.233333	42314917	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	84629.833333
+84749.066667	0.033333	42374533	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	84749.066667
+84749.100000	120.166667	42374550	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	84749.100000
+84869.266667	0.166667	42434633	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	84869.266667
+84869.433333	120.166667	42434717	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	84869.433333
+84989.600000	0.200000	42494800	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	84989.600000
+84989.800000	120.200000	42494900	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	84989.800000
+85110.000000	0.066667	42555000	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	85110.000000
+85110.066667	119.133333	42555033	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	85110.066667
+85229.200000	0.066667	42614600	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	85229.200000
+85229.266667	120.233333	42614633	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	85229.266667
+85349.500000	0.066667	42674750	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	85349.500000
+85349.566667	119.100000	42674783	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	85349.566667
+85468.666667	0.133333	42734333	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	85468.666667
+85468.800000	121.233333	42734400	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	85468.800000
+85590.033333	0.100000	42795017	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	85590.033333
+85590.133333	119.100000	42795067	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	85590.133333
+85709.233333	0.033333	42854617	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	85709.233333
+85709.266667	120.200000	42854633	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	85709.266667
+85829.466667	0.066667	42914733	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	85829.466667
+85829.533333	120.300000	42914767	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	85829.533333
+85949.833333	0.066667	42974917	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	85949.833333
+85949.900000	119.133333	42974950	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	85949.900000
+86069.033333	0.066667	43034517	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	86069.033333
+86069.100000	120.100000	43034550	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	86069.100000
+86189.200000	0.200000	43094600	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	86189.200000
+86189.400000	121.266667	43094700	coarse_label	Sleep/rest	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	86189.400000
+86310.666667	89.333333	43155333	coarse_label	Blocklist (Data break)	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	86310.666667

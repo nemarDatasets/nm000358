@@ -1,0 +1,47 @@
+{
+  "Name": "AJILE12: long-term naturalistic ECoG with wrist-movement events and behaviour labels (DANDI 000055)",
+  "BIDSVersion": "1.10.0",
+  "DatasetType": "raw",
+  "License": "CC-BY-4.0",
+  "Authors": [
+    "Steven M. Peterson",
+    "Satpreet H. Singh",
+    "Benjamin Dichter",
+    "Michael Scheid",
+    "Rajesh P. N. Rao",
+    "Bingni W. Brunton"
+  ],
+  "Acknowledgements": "Data collected and originally released by the authors above (University of Washington; recorded at Harborview Medical Center). This iEEG-BIDS representation of the ECoG recordings was produced by Bruno Aristimunha from the DANDI release (DANDI:000055/0.220127.0436) without changing signal values; see README. Original acknowledgement: 'We thank Nancy Wang for contributing to the data collection, John So for generating the coarse behavior annotations, and the clinical staff at the Harborview Hospital Neurosurgery department for their assistance collecting and analyzing the data, especially Leigh Weber, Jeffrey G. Ojemann, and Andrew Ko.'",
+  "HowToAcknowledge": "Please cite: Peterson SM, Singh SH, Dichter B, Scheid M, Rao RPN, Brunton BW. AJILE12: Long-term naturalistic human intracranial neural recordings and pose. Sci Data 9, 184 (2022). https://doi.org/10.1038/s41597-022-01280-y ; and the source data: Peterson et al. (2022) AJILE12 (Version 0.220127.0436). DANDI archive. https://doi.org/10.48324/dandi.000055/0.220127.0436",
+  "Funding": [
+    "National Science Foundation 1630178",
+    "National Science Foundation EEC-1028725",
+    "Defense Advanced Research Projects Agency FA8750-18-2-0259",
+    "Sloan Foundation",
+    "Washington Research Foundation",
+    "Weill Neurohub"
+  ],
+  "EthicsApprovals": [
+    "University of Washington Institutional Review Board, STUDY00000623 (DANDI ethicsApproval); all participants provided written informed consent (Peterson et al. 2022)"
+  ],
+  "ReferencesAndLinks": [
+    "https://doi.org/10.1038/s41597-022-01280-y",
+    "https://doi.org/10.48324/dandi.000055/0.220127.0436",
+    "https://github.com/BruntonUWBio/ajile12-nwb-data",
+    "https://doi.org/10.1523/ENEURO.0007-21.2021",
+    "https://doi.org/10.1016/j.jneumeth.2021.109199"
+  ],
+  "SourceDatasets": [
+    {
+      "URL": "https://dandiarchive.org/dandiset/000055/0.220127.0436",
+      "DOI": "doi:10.48324/dandi.000055/0.220127.0436",
+      "Version": "0.220127.0436"
+    }
+  ],
+  "GeneratedBy": [
+    {
+      "Name": "laneB_ieeg002_bids.py (iEEG-NEMAR campaign 2026-10)",
+      "Description": "Writes the NWB acquisition/ElectricalSeries stored float32 microvolt values byte-for-byte as BrainVision float32; maps ReachEvents, reach features and coarse behaviour labels to events with a per-file verified clock offset; copies original NWB files byte-identically into sourcedata/."
+    }
+  ]
+}
