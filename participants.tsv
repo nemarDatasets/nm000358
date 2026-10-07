@@ -1,13 +1,13 @@
-participant_id	species
-sub-01	Homo sapiens
-sub-02	Homo sapiens
-sub-03	Homo sapiens
-sub-04	Homo sapiens
-sub-05	Homo sapiens
-sub-06	Homo sapiens
-sub-07	Homo sapiens
-sub-08	Homo sapiens
-sub-09	Homo sapiens
-sub-10	Homo sapiens
-sub-11	Homo sapiens
-sub-12	Homo sapiens
+participant_id	species	age	sex	hemisphere_implanted	recording_days_used	surface_electrodes_good	surface_electrodes_total	depth_electrodes_good	depth_electrodes_total
+sub-01	Homo sapiens	44	M	L	4	79	86	6	8
+sub-02	Homo sapiens	20	M	R	4	69	70	16	16
+sub-03	Homo sapiens	33	M	L	4	79	80	0	16
+sub-04	Homo sapiens	19	F	R	5	67	84	0	0
+sub-05	Homo sapiens	31	F	R	3	104	106	0	0
+sub-06	Homo sapiens	37	M	L	5	70	80	0	0
+sub-07	Homo sapiens	26	M	R	5	63	64	0	0
+sub-08	Homo sapiens	33	F	R	5	83	92	0	0
+sub-09	Homo sapiens	20	M	L	5	96	98	28	28
+sub-10	Homo sapiens	34	M	L	5	82	86	39	40
+sub-11	Homo sapiens	34	F	L	5	103	106	0	0
+sub-12	Homo sapiens	22	M	L	5	88	92	24	32

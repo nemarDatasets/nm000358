@@ -4,5 +4,38 @@
   },
   "species": {
     "Description": "NWB general/subject/species."
+  },
+  "age": {
+    "Description": "Column \"Age (years)\", Table 2 \"Individual participant characteristics\" of Peterson et al. 2022, Sci Data 9:184, doi:10.1038/s41597-022-01280-y (CC BY 4.0); P01-P12 = DANDI 000055 / BIDS sub-01..sub-12 (electrodes.tsv rows equal surface+depth totals; ses-* count equals recording days). Paper Methods: 8 males, 4 females; 29.4 +/- 7.6 years (consistent).",
+    "Units": "year"
+  },
+  "sex": {
+    "Description": "Column \"Gender\", Table 2 \"Individual participant characteristics\" of Peterson et al. 2022, Sci Data 9:184, doi:10.1038/s41597-022-01280-y (CC BY 4.0); P01-P12 = DANDI 000055 / BIDS sub-01..sub-12 (electrodes.tsv rows equal surface+depth totals; ses-* count equals recording days).",
+    "Levels": {
+      "M": "male",
+      "F": "female"
+    }
+  },
+  "hemisphere_implanted": {
+    "Description": "Column \"Hemisphere implanted\", Table 2 \"Individual participant characteristics\" of Peterson et al. 2022, Sci Data 9:184, doi:10.1038/s41597-022-01280-y (CC BY 4.0); P01-P12 = DANDI 000055 / BIDS sub-01..sub-12 (electrodes.tsv rows equal surface+depth totals; ses-* count equals recording days).",
+    "Levels": {
+      "L": "left",
+      "R": "right"
+    }
+  },
+  "recording_days_used": {
+    "Description": "Column \"Recording days used\", Table 2 \"Individual participant characteristics\" of Peterson et al. 2022, Sci Data 9:184, doi:10.1038/s41597-022-01280-y (CC BY 4.0); P01-P12 = DANDI 000055 / BIDS sub-01..sub-12 (electrodes.tsv rows equal surface+depth totals; ses-* count equals recording days)."
+  },
+  "surface_electrodes_good": {
+    "Description": "Good surface (ECoG) electrodes, first number of \"Surface electrodes: # good/total\", Table 2 \"Individual participant characteristics\" of Peterson et al. 2022, Sci Data 9:184, doi:10.1038/s41597-022-01280-y (CC BY 4.0); P01-P12 = DANDI 000055 / BIDS sub-01..sub-12 (electrodes.tsv rows equal surface+depth totals; ses-* count equals recording days)."
+  },
+  "surface_electrodes_total": {
+    "Description": "Total surface (ECoG) electrodes, second number of \"Surface electrodes: # good/total\", Table 2 \"Individual participant characteristics\" of Peterson et al. 2022, Sci Data 9:184, doi:10.1038/s41597-022-01280-y (CC BY 4.0); P01-P12 = DANDI 000055 / BIDS sub-01..sub-12 (electrodes.tsv rows equal surface+depth totals; ses-* count equals recording days)."
+  },
+  "depth_electrodes_good": {
+    "Description": "Good depth electrodes, first number of \"Depth electrodes: # good/total\", Table 2 \"Individual participant characteristics\" of Peterson et al. 2022, Sci Data 9:184, doi:10.1038/s41597-022-01280-y (CC BY 4.0); P01-P12 = DANDI 000055 / BIDS sub-01..sub-12 (electrodes.tsv rows equal surface+depth totals; ses-* count equals recording days)."
+  },
+  "depth_electrodes_total": {
+    "Description": "Total depth electrodes, second number of \"Depth electrodes: # good/total\", Table 2 \"Individual participant characteristics\" of Peterson et al. 2022, Sci Data 9:184, doi:10.1038/s41597-022-01280-y (CC BY 4.0); P01-P12 = DANDI 000055 / BIDS sub-01..sub-12 (electrodes.tsv rows equal surface+depth totals; ses-* count equals recording days)."
   }
 }
