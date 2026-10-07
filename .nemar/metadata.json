@@ -1,6 +1,11 @@
 {
   "version": "2.0",
   "pipeline_stage": "validated",
+  "title": "AJILE12: long-term naturalistic ECoG with wrist-movement events and behaviour labels (DANDI 000055)",
+  "description": "AJILE12 provides long-term, naturalistic electrocorticography (ECoG) recorded opportunistically from 12 participants during clinical epilepsy monitoring at Harborview Medical Center, totaling 55 recording days (about 1295 h). The recordings are accompanied by wrist-movement initiation events and coarse behavioural state labels derived from simultaneous video. This iEEG-BIDS representation converts the original NWB release from DANDI 000055 without changing signal values. No experimental task was performed.",
+  "methods_description": "ECoG (grids, strips and some depth electrodes) was recorded passively at 1 kHz during 24-hour clinical monitoring, with simultaneous 30 fps video. The authors processed the data with median DC removal, 1-200 Hz band-pass, 60 Hz notch, downsampling to 500 Hz and common median re-referencing. Wrist-movement events were detected and visually validated from video-based pose estimation, and coarse behaviours were annotated. Electrodes were localised with FieldTrip and warped to MNI space.",
+  "license": "CC-BY-4.0",
+  "dataset_type": "raw",
   "authors": {
     "Steven M. Peterson": {
       "orcid": "0000-0003-0782-5788",
@@ -44,6 +49,33 @@
       ]
     }
   },
+  "keywords": [
+    {
+      "term": "Electrocorticography",
+      "subject_scheme": "MeSH",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D000069280"
+    },
+    {
+      "term": "ECoG"
+    },
+    {
+      "term": "iEEG"
+    },
+    {
+      "term": "naturalistic behavior"
+    },
+    {
+      "term": "wrist movement"
+    },
+    {
+      "term": "long-term monitoring"
+    },
+    {
+      "term": "Epilepsy",
+      "subject_scheme": "MeSH",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D004827"
+    }
+  ],
   "related_identifiers": [
     {
       "identifier": "10.48324/dandi.000055/0.220127.0436",
@@ -99,14 +131,11 @@
       "award_number": "FA8750-18-2-0259"
     }
   ],
-  "title": "AJILE12: long-term naturalistic ECoG with wrist-movement events and behaviour labels (DANDI 000055)",
-  "license": "CC-BY-4.0",
-  "dataset_type": "raw",
   "resource_type_general": "Dataset",
+  "resource_type_specific": "iEEG Dataset",
   "modalities": [
     "ieeg"
   ],
-  "resource_type_specific": "iEEG Dataset",
   "sizes": [
     "1.60 TB (166 files)"
   ],
@@ -117,31 +146,8 @@
     ".tsv",
     ".vhdr",
     ".vmrk",
-    ".yaml"
+    ".yaml",
+    ".yml"
   ],
-  "description": "AJILE12 is a long-term naturalistic electrocorticography (ECoG) dataset recorded opportunistically from 12 participants during clinical epilepsy monitoring at Harborview Medical Center, with 55 full-day recordings sampled at 500 Hz. It includes visually validated wrist-movement initiation events and coarse behavioural state labels (e.g., sleep/rest, TV, talking, eating) derived from simultaneous video. This iEEG-BIDS representation converts the original DANDI 000055 NWB release without altering signal values, and retains the original NWB files, including pose trajectories, in sourcedata.",
-  "methods_description": "ECoG (grids, strips and some depth electrodes) was recorded during clinical monitoring, with simultaneous video used to estimate upper-body pose, detect wrist-movement events and annotate coarse behaviours. The authors applied median DC removal, 1-200 Hz band-pass, 60 Hz notch, downsampling from 1 kHz to 500 Hz and common-median re-referencing per electrode group. Electrodes were localised with FieldTrip using co-registered MRI and CT and warped to MNI space. Conversion to BrainVision float32 preserved the NWB values byte-for-byte, with event clock offsets verified per file.",
-  "keywords": [
-    {
-      "term": "Electrocorticography",
-      "subject_scheme": "MeSH",
-      "value_uri": "http://id.nlm.nih.gov/mesh/D000069280"
-    },
-    {
-      "term": "iEEG"
-    },
-    {
-      "term": "naturalistic behavior"
-    },
-    {
-      "term": "wrist movement"
-    },
-    {
-      "term": "epilepsy monitoring"
-    },
-    {
-      "term": "long-term recording"
-    }
-  ],
-  "source_hash": "8d35ec06aed987a1114ff42432aecc935bdb7e914b2e17b517dedb4efdd40305"
+  "source_hash": "6e71db9644b8783ce8df5eeef32a38fa561e56f2e4bc5ac056b9f3fc182637d6"
 }
