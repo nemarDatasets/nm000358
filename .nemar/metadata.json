@@ -2,8 +2,8 @@
   "version": "2.0",
   "pipeline_stage": "validated",
   "title": "AJILE12: long-term naturalistic ECoG with wrist-movement events and behaviour labels (DANDI 000055)",
-  "description": "AJILE12 comprises long-term naturalistic electrocorticography (ECoG) recorded passively from 12 participants during clinical epilepsy monitoring at Harborview Medical Center, totaling 55 recording days (about 1295 h). The recordings are paired with video-derived pose estimates, visually validated wrist-movement initiation events, and coarse behavioural state labels. This iEEG-BIDS version converts the original NWB release from DANDI 000055 without changing signal values, and there is no experimental task.",
-  "methods_description": "ECoG (grids, strips and some depth electrodes) was recorded at 1 kHz with simultaneous 30 fps video during 24-hour clinical monitoring on days 3-7 after implantation. The authors applied median DC removal, 1-200 Hz band-pass, 60 Hz notch, downsampling to 500 Hz and common median re-referencing per electrode group. Electrodes were localised with FieldTrip by co-registering pre-operative MRI and post-operative CT, then warped to MNI space. Upper-body pose was estimated from the video, and wrist-movement events and coarse behaviour labels were annotated.",
+  "description": "AJILE12 is a long-term naturalistic intracranial dataset of electrocorticography (ECoG) recorded opportunistically from 12 epilepsy patients during clinical monitoring at Harborview Medical Center. Recordings cover 55 full monitoring days (days 3-7 after implantation) with simultaneous video, from which upper-body pose, validated wrist-movement initiation events and coarse behavioural state labels were derived. This iEEG-BIDS representation converts the original NWB release from DANDI without altering signal values.",
+  "methods_description": "Semi-continuous ECoG (1 kHz, released at 500 Hz after median DC removal, 1-200 Hz band-pass, 60 Hz notch and common median re-referencing) and 30 fps video were passively recorded during 24-hour clinical epilepsy monitoring. Electrodes were localised with FieldTrip by co-registering pre-operative MRI with post-operative CT and warping to MNI space. Wrist-movement events were detected from pose estimates and visually validated, and coarse behaviours were annotated manually.",
   "license": "CC-BY-4.0",
   "dataset_type": "raw",
   "authors": {
@@ -56,7 +56,9 @@
       "value_uri": "http://id.nlm.nih.gov/mesh/D000069280"
     },
     {
-      "term": "ECoG"
+      "term": "Epilepsy",
+      "subject_scheme": "MeSH",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D004827"
     },
     {
       "term": "iEEG"
@@ -68,12 +70,10 @@
       "term": "wrist movement"
     },
     {
-      "term": "pose estimation"
+      "term": "long-term monitoring"
     },
     {
-      "term": "Epilepsy",
-      "subject_scheme": "MeSH",
-      "value_uri": "http://id.nlm.nih.gov/mesh/D004827"
+      "term": "pose estimation"
     }
   ],
   "related_identifiers": [
