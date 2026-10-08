@@ -157,3 +157,7 @@ on 2026-10-06 and verified against the DANDI SHA-256 digests. Conversion scripts
 laneB_ieeg002_bids.py, checks laneB_ieeg002_check.py (h5py 3.16, numpy 2.5, MNE 1.13). An earlier
 automated nwb2bids attempt for this Dandiset (github.com/bids-dandisets/000055) converted 0 of the
 sessions; no BIDS copy of these recordings was found on DANDI, OpenNeuro or NEMAR as of 2026-10-06.
+
+## Atlas labels of the electrode positions (added 2026-10-08)
+
+Each `electrodes.tsv` that has coordinates now has two derived columns, `atlas_label_AAL3v1` and `atlas_label_DesikanKilliany`. They are an atlas lookup of the coordinates already in the file (MNI coordinates used as given), made for NEMAR; they are not labels given by the authors, and the coordinates themselves are unchanged. Method and caveats: `electrodes.json`. 4787 of 5432 contacts received a label.
