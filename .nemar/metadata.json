@@ -2,8 +2,8 @@
   "version": "2.0",
   "pipeline_stage": "validated",
   "title": "AJILE12: long-term naturalistic ECoG with wrist-movement events and behaviour labels (DANDI 000055)",
-  "description": "AJILE12 is an iEEG-BIDS representation of long-term naturalistic electrocorticography (ECoG) recorded opportunistically from 12 participants during clinical epilepsy monitoring at Harborview Medical Center. It comprises 55 day-long recordings (days 3-7 after implantation) with simultaneous video-derived wrist-movement events and coarse behavioural state labels. There is no experimental task. The signals were converted from the DANDI NWB release without altering values, and the original NWB files, including pose trajectories, are retained in sourcedata.",
-  "methods_description": "ECoG (grids, strips and some depth electrodes) was recorded passively at 1 kHz during 24-hour clinical monitoring, with video at 30 fps. The authors processed it with median DC removal, 1-200 Hz band-pass, 60 Hz notch, downsampling to 500 Hz and common-median re-referencing per electrode group. Wrist-movement initiation events were detected from video-based pose estimation and visually validated, and coarse behaviours were annotated. Electrodes were localised with FieldTrip using MRI/CT co-registration and warped to MNI space.",
+  "description": "AJILE12 provides long-term naturalistic electrocorticography (ECoG) recorded opportunistically from 12 participants during clinical epilepsy monitoring at Harborview Medical Center, totalling 55 recording days. Simultaneous video was used to estimate upper-body pose, detect wrist-movement initiation events and annotate coarse behavioural states. This iEEG-BIDS representation converts the original NWB release from DANDI 000055 without altering signal values.",
+  "methods_description": "ECoG (grids, strips and some depth electrodes) was recorded passively at 1 kHz during 24-hour clinical monitoring, with video at 30 fps. The authors applied median DC removal, 1-200 Hz band-pass, 60 Hz notch, downsampling to 500 Hz and common median re-referencing per electrode group. Electrodes were localised with FieldTrip and warped to MNI space. Wrist-movement events and coarse behaviour labels were mapped to BIDS events with verified clock offsets.",
   "license": "CC-BY-4.0",
   "dataset_type": "raw",
   "authors": {
@@ -56,10 +56,7 @@
       "value_uri": "http://id.nlm.nih.gov/mesh/D000069280"
     },
     {
-      "term": "ECoG"
-    },
-    {
-      "term": "intracranial EEG"
+      "term": "iEEG"
     },
     {
       "term": "naturalistic behavior"
