@@ -1,7 +1,7 @@
 {
   "version": "2.0",
   "pipeline_stage": "validated",
-  "title": "Peterson-2022-ajile12-10.1038/s41597-022-01280-y",
+  "title": "AJILE12: long-term naturalistic ECoG with wrist-movement events and behaviour labels (DANDI 000055)",
   "description": "AJILE12 is an iEEG-BIDS representation of long-term naturalistic electrocorticography (ECoG) recorded opportunistically from 12 participants during clinical epilepsy monitoring at Harborview Medical Center. It comprises 55 day-long recordings (days 3-7 after implantation) with simultaneous video-derived wrist-movement events and coarse behavioural state labels. There is no experimental task. The signals were converted from the DANDI NWB release without altering values, and the original NWB files, including pose trajectories, are retained in sourcedata.",
   "methods_description": "ECoG (grids, strips and some depth electrodes) was recorded passively at 1 kHz during 24-hour clinical monitoring, with video at 30 fps. The authors processed it with median DC removal, 1-200 Hz band-pass, 60 Hz notch, downsampling to 500 Hz and common-median re-referencing per electrode group. Wrist-movement initiation events were detected from video-based pose estimation and visually validated, and coarse behaviours were annotated. Electrodes were localised with FieldTrip using MRI/CT co-registration and warped to MNI space.",
   "license": "CC-BY-4.0",
@@ -153,5 +153,5 @@
     ".yaml",
     ".yml"
   ],
-  "source_hash": "542b838381f2c451d72a4bc9db0e0c8437a6f1ec2a7e46e479f9e0343c02661f"
+  "source_hash": "85dd72e047714dd2577c3a5aa592da30e25899aa45b62b53480beeca6315e934"
 }
